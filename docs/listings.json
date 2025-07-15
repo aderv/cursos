@@ -1,0 +1,30 @@
+[
+  {
+    "listing": "/cursos/simulacion/index.html",
+    "items": [
+      "/cursos/simulacion/00-silabo.html"
+    ]
+  },
+  {
+    "listing": "/cursos/modelos/index.html",
+    "items": [
+      "/cursos/modelos/00-silabo.html",
+      "/cursos/modelos/01-intro.html"
+    ]
+  },
+  {
+    "listing": "/cursos/pl/index.html",
+    "items": [
+      "/cursos/pl/00-silabo.html",
+      "/cursos/pl/01-intro.html"
+    ]
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/cursos/modelos/index.html",
+      "/cursos/pl/index.html",
+      "/cursos/simulacion/index.html"
+    ]
+  }
+]
