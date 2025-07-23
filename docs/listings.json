@@ -1,8 +1,10 @@
 [
   {
-    "listing": "/cursos/simulacion/index.html",
+    "listing": "/index.html",
     "items": [
-      "/cursos/simulacion/00-silabo.html"
+      "/cursos/modelos/index.html",
+      "/cursos/pl/index.html",
+      "/cursos/simulacion/index.html"
     ]
   },
   {
@@ -15,16 +17,14 @@
   {
     "listing": "/cursos/pl/index.html",
     "items": [
-      "/cursos/pl/00-silabo.html",
-      "/cursos/pl/01-intro.html"
+      "/cursos/pl/01-lecturas.html",
+      "/cursos/pl/00-silabo.html"
     ]
   },
   {
-    "listing": "/index.html",
+    "listing": "/cursos/simulacion/index.html",
     "items": [
-      "/cursos/modelos/index.html",
-      "/cursos/pl/index.html",
-      "/cursos/simulacion/index.html"
+      "/cursos/simulacion/00-silabo.html"
     ]
   }
 ]

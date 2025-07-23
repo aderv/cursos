@@ -79,9 +79,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-title','listing-author','listing-subtitle','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-date','listing-title','listing-author','listing-subtitle','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-title","listing-author","listing-subtitle","listing-image","listing-description","listing-categories"],
+      searchColumns: ["listing-date","listing-title","listing-author","listing-subtitle","listing-image","listing-description","listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -211,7 +211,7 @@ window.Quarto = {
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    <h5 class="quarto-listing-category-title">Categorías</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">Todas <span class="quarto-category-count">(2)</span></div><div class="category" data-category="UyVDMyVBRGxhYm8=">Sílabo <span class="quarto-category-count">(1)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categorías</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">Todas <span class="quarto-category-count">(2)</span></div><div class="category" data-category="RWplcmNpY2lvcw==">Ejercicios <span class="quarto-category-count">(1)</span></div><div class="category" data-category="RXZhbHVhY2lvbmVz">Evaluaciones <span class="quarto-category-count">(1)</span></div><div class="category" data-category="TGVjdHVyYXM=">Lecturas <span class="quarto-category-count">(1)</span></div><div class="category" data-category="UHJvZ3JhbWFjaSVDMyVCM24lMjBMaW5lYWw=">Programación Lineal <span class="quarto-category-count">(1)</span></div><div class="category" data-category="UyVDMyVBRGxhYm8=">Sílabo <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Y29udGVuaWRv">contenido <span class="quarto-category-count">(1)</span></div><div class="category" data-category="cGxhbiUyMGRlJTIwdHJhYmFqbw==">plan de trabajo <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
 <main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
 
@@ -233,6 +233,12 @@ window.Quarto = {
          <option value="listing-title" data-direction="asc">
           Título
         </option>
+         <option value="listing-date-sort" data-direction="asc">
+          Fecha - Menos reciente
+        </option>
+         <option value="listing-date-sort" data-direction="desc">
+          Fecha - Más reciente
+        </option>
          <option value="listing-author" data-direction="asc">
           Autor/a
         </option>
@@ -244,7 +250,49 @@ window.Quarto = {
     </div>
 </div>
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="UyVDMyVBRGxhYm8=" data-listing-file-modified-sort="1752546087021" data-listing-reading-time-sort="5" data-listing-word-count-sort="973">
+<div class="quarto-post image-right" data-index="0" data-categories="UHJvZ3JhbWFjaSVDMyVCM24lMjBMaW5lYWwlMkNFamVyY2ljaW9zJTJDTGVjdHVyYXMlMkNFdmFsdWFjaW9uZXM=" data-listing-date-sort="1753160400000" data-listing-file-modified-sort="1753233481270" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="58">
+<div class="thumbnail">
+<p><a href="../../cursos/pl/01-lecturas.html" class="no-external"></a></p><a href="../../cursos/pl/01-lecturas.html" class="no-external">
+<p><img loading="lazy" src="../../cursos/pl/assets/ejercicios3.png" class="thumbnail-image"></p>
+</a><p><a href="../../cursos/pl/01-lecturas.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../../cursos/pl/01-lecturas.html" class="no-external">Lecturas y ejercicios de repaso</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../../cursos/pl/01-lecturas.html" class="no-external"></a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('UHJvZ3JhbWFjaSVDMyVCM24lMjBMaW5lYWw='); return false;">
+Programación Lineal
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('RWplcmNpY2lvcw=='); return false;">
+Ejercicios
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('TGVjdHVyYXM='); return false;">
+Lecturas
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('RXZhbHVhY2lvbmVz'); return false;">
+Evaluaciones
+</div>
+</div>
+<div class="listing-description">
+<a href="../../cursos/pl/01-lecturas.html" class="no-external">En esta sección podrán encontrar la lista de los ejercicios recomendados de la bibliografía para repasar los temas de las clases y prepararse para los exámenes.</a>
+</div>
+</div>
+<div class="metadata">
+<a href="../../cursos/pl/01-lecturas.html" class="no-external">
+<div class="listing-date">
+22 jul 2025
+</div>
+<div class="listing-author">
+Ader Villar
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="1" data-categories="UyVDMyVBRGxhYm8lMkNjb250ZW5pZG8lMkNwbGFuJTIwZGUlMjB0cmFiYWpv" data-listing-date-sort="1752469200000" data-listing-file-modified-sort="1753230337646" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="973">
 <div class="thumbnail">
 <p><a href="../../cursos/pl/00-silabo.html" class="no-external"></a></p><a href="../../cursos/pl/00-silabo.html" class="no-external">
 <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
@@ -261,38 +309,25 @@ window.Quarto = {
 <div class="listing-category" onclick="window.quartoListingCategory('UyVDMyVBRGxhYm8='); return false;">
 Sílabo
 </div>
+<div class="listing-category" onclick="window.quartoListingCategory('Y29udGVuaWRv'); return false;">
+contenido
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('cGxhbiUyMGRlJTIwdHJhYmFqbw=='); return false;">
+plan de trabajo
+</div>
 </div>
 <div class="listing-description">
 <a href="../../cursos/pl/00-silabo.html" class="no-external">En el curso de <strong>Programación Lineal</strong> se presentan técnicas de modelación y métodos de solución para problemas de <strong>optimización</strong> en los que el dominio de las variables es…</a>
 </div>
 </div>
 <div class="metadata">
-<p><a href="../../cursos/pl/00-silabo.html" class="no-external"></a></p><a href="../../cursos/pl/00-silabo.html" class="no-external">
+<a href="../../cursos/pl/00-silabo.html" class="no-external">
+<div class="listing-date">
+14 jul 2025
+</div>
 <div class="listing-author">
 Ader Villar
 </div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="1" data-listing-file-modified-sort="1752450765194">
-<div class="thumbnail">
-<p><a href="../../cursos/pl/01-intro.html" class="no-external"></a></p><a href="../../cursos/pl/01-intro.html" class="no-external">
-<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
-</a><p><a href="../../cursos/pl/01-intro.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="../../cursos/pl/01-intro.html" class="no-external"></a>
-</h3>
-<div class="listing-subtitle">
-<a href="../../cursos/pl/01-intro.html" class="no-external"></a>
-</div>
-<div class="listing-description">
-<a href="../../cursos/pl/01-intro.html" class="no-external"></a>
-</div>
-</div>
-<div class="metadata">
-<p><a href="../../cursos/pl/01-intro.html" class="no-external"></a></p><a href="../../cursos/pl/01-intro.html" class="no-external">
 </a>
 </div>
 </div>
