@@ -81,7 +81,7 @@
     "href": "cursos/modelos/index.html",
     "title": "Modelos Estocásticos",
     "section": "",
-    "text": "Ordenar por\n       Por defecto\n         \n          Título\n        \n         \n          Autor/a\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nModelos estocásticos 2025-20\n\n\nUniversidad Pontificia Bolivariana\n\n\n\nSílabo\n\n\n\n\n\n\n\n\n\nAder Villar\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo hay resultados\n\n Volver arriba"
+    "text": "Ordenar por\n       Por defecto\n         \n          Título\n        \n         \n          Fecha - Menos reciente\n        \n         \n          Fecha - Más reciente\n        \n         \n          Autor/a\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nLecturas y ejercicios de repaso\n\n\n\n\n\n\nEstocásticos\n\n\nEjercicios\n\n\nLecturas\n\n\nEvaluaciones\n\n\n\n\n\n\n\n\n\n23 jul 2025\n\n\nAder Villar\n\n\n\n\n\n\n\n\n\n\n\n\nModelos estocásticos 2025-20\n\n\nUniversidad Pontificia Bolivariana\n\n\n\nSílabo\n\n\n\n\n\n\n\n\n\nAder Villar\n\n\n\n\n\n\nNo hay resultados\n\n Volver arriba"
   },
   {
     "objectID": "cursos/modelos/00-silabo.html",
@@ -201,5 +201,19 @@
     "title": "Simulación",
     "section": "",
     "text": "Ordenar por\n       Por defecto\n         \n          Título\n        \n         \n          Autor/a\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nSimulación 2025-20\n\n\nUniversidad Pontificia Bolivariana\n\n\n\nSílabo\n\n\n\n\n\n\n\n\n\nAder Villar\n\n\n\n\n\n\nNo hay resultados\n\n Volver arriba"
+  },
+  {
+    "objectID": "cursos/modelos/01-lecturas.html",
+    "href": "cursos/modelos/01-lecturas.html",
+    "title": "Lecturas y ejercicios de repaso",
+    "section": "",
+    "text": "En esta sección podrán encontrar la lista de los ejercicios recomendados de la bibliografía para repasar los temas de las clases y prepararse para los exámenes."
+  },
+  {
+    "objectID": "cursos/modelos/01-lecturas.html#semanas-1-y-2",
+    "href": "cursos/modelos/01-lecturas.html#semanas-1-y-2",
+    "title": "Lecturas y ejercicios de repaso",
+    "section": "Semanas 1 y 2",
+    "text": "Semanas 1 y 2\nLibro: Probabilidad y Estadística para Ingeniería y Ciencias. Walpole & Myers & Myers. 9na edición\n\nEjercicios de la sección 2.2 (página 42): 2.4, 2.5, 2.7, 2.8, 2.11, 2.14, 2.15\nEjercicios de la sección 2.4 y 2.5 (página 59): 2.52, 2.53, 2.66, 2.69, 2.72\nEjercicios de la sección 2.6 (página 69): 2.73, 2.75, 2.77, 2.79, 2.83, 2.85, 2.88, 2.90, 2.92, 2.93"
   }
 ]
