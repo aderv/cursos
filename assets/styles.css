@@ -1,0 +1,46 @@
+/* Banner de título de ancho completo */
+/* .quarto-title-banner {
+  background-color:rgb(27, 0, 39);
+  color: white;
+  padding: 2em 1em;
+} */
+
+/* Estilos para las tarjetas de la página de inicio */
+.card {
+    border: 1px solid #ddd;
+    border-radius: 0px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    height: 100%; /* Para que todas las tarjetas en una fila tengan la misma altura */
+}
+
+.column {
+  padding-left: 10px; 
+  padding-right: 10px; 
+}
+
+.columns {
+  padding: 2px;
+}
+
+.card-img-top {
+  transition: transform 0.3s ease;
+}
+
+.card:hover .card-img-top {
+  transform: scale(1.005);
+  box-shadow: 0px 0px 2px 2px gray;
+}
+
+/* Posicionamiento del logo en el banner de título */
+.quarto-title-banner .quarto-title-logo {
+  position: absolute;
+  top: 1.5em; /* Ajustar la distancia desde arriba */
+  right: 2em; /* Ajustar la distancia desde la derecha */
+  max-height: 60px; /* Limitar el tamaño del logo */
+  width: auto;
+}
+
+/* Espacio para el logo para que el título no se superponga */
+.quarto-title-banner .title {
+  padding-right: 100px; 
+}

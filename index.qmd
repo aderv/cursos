@@ -1,0 +1,16 @@
+---
+title: "Ingeniería Industrial"
+subtitle: "Recursos y material de apoyo a los cursos"
+page-layout: full
+title-block-banner: true
+listing:
+  - id: course-cards
+    contents: "cursos/*/index.qmd"
+    type: grid
+    grid-columns: 3
+    image-height: "400px"    
+    grid-item-border: true
+---
+
+::: {#course-cards}
+:::

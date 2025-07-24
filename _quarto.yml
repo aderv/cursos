@@ -1,0 +1,41 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Ader Villar"
+  back-to-top-navigation: true
+  # announcement: "Sitio web en construcción"
+  # body-footer: "Cursos para la **Universidad Pontificia Bolivariana**, sede Montería"
+  # body-header: "## Encabezado para cada página"
+  bread-crumbs: true  
+  navbar:
+    search: true
+    left:
+      - href: index.qmd
+        text: Inicio
+      - text: "cursos"
+        menu:
+          - text: "Programación Lineal"
+            href: /cursos/pl/
+          - text: "Modelos Estocásticos"
+            href: /cursos/modelos/
+          - text: "Simulación"
+            href: /cursos/simulacion/
+      # - href: about.qmd
+      #   text: "Sobre este sitio"
+      # - href: blog.qmd
+      #   text: Blog
+  page-footer: 
+    right: "Construído con [Quarto](https://quarto.org/){target='_blank'}"
+    left: "&copy; 2025, Ader Villar"
+
+format:
+  html:
+    theme: minty
+    css: "assets/styles.css"
+    toc: true
+    lang: es
+
+
+

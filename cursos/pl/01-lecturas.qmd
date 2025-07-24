@@ -1,0 +1,18 @@
+---
+title: "Lecturas y ejercicios de repaso"
+author: "Ader Villar"
+author-title: "Profesor"
+date: "07/22/2025"
+image: "assets/ejercicios3.png"
+categories: [Programación Lineal, Ejercicios, Lecturas, Evaluaciones]
+---
+
+En esta sección podrán encontrar la lista de los ejercicios recomendados de la bibliografía para repasar los temas de las clases y prepararse para los exámenes. 
+
+## Semanas 1 y 2
+
+Libro: Investigación de Operaciones. Hamdy Taha. 9na edición
+
++ Conjunto de problemas 2.2A (página 20): 4, 7, 12, 13, 14, 16, 17, 18
++ Conjunto de problemas 2.2B (página 26): 4, 5, 6, 7
+

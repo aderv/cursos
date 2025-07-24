@@ -1,0 +1,117 @@
+---
+title: "Programación Lineal 2025-20"
+subtitle: "Universidad Pontificia Bolivariana"
+author: "Ader Villar"
+author-title: Profesor
+date: "07/14/2025"
+categories: [Sílabo, contenido, plan de trabajo]
+nocite: "@*"
+reference-location: margin
+---
+
+## Descripción
+
+En el curso de **Programación Lineal** se presentan técnicas de modelación y métodos de solución para problemas de **optimización** en los que el dominio de las variables es continuo y tanto la función objetivo como las restricciones son ecuaciones lineales de dichas variables. Este tipo de modelos matemáticos encuentran un número variado de aplicaciones en ciencias e ingenierías, permitiendo expresar situaciones concretas en términos de modelos matemáticos fáciles de resolver y de escalar. A pesar de su fuerte limitación de linealidad, la programación lineal es bastante versátil y se convierte en una herramienta fundamental para la optimización de procesos y aplicaciones a la Ingeniería Industrial. 
+
+Además de trabajar los aspectos teóricos de la materia, se procura también el enfoque práctico de los temas, al tratar con problemas contextualizados y resolverlos usando hojas de cálculo y lenguajes de programación.
+
+
+## Objetivos 
+
++ Identificar adecuadamente problemas de optimización que puedan ser tratados con métodos de Programación Lineal.
++ Comprender y aplicar los métodos de solución de problemas de programación lineal
++ Implementar algoritmos en lenguajes de programación y lenguajes algebraicos que permitan resolver problemas que incluyan decenas o cientos de variables
++ Planear, ejecutar y comunicar de manera clara, proyectos de ingeniería que involucren métodos de programación lineal para la toma de decisiones
+
+## Metodología
+
+El contenido del curso se trabajará semanalmente en 2 sesiones presenciales de 1 hora con 40 minutos cada una. Al ser un curso de 3 créditos, se espera que el estudiante dedique entre 5 y 6 horas de trabajo independiente semanal, adicional a las horas de encuentro directo con el docente.
+
+Durante las clases se irán desarrollando conceptos, teoría y ejercicios de profundización; y se recomienda la toma de apuntes para posterior estudio y repaso. Se recomendarán ejercicios de la bibliografía sugerida para fomentar la práctica independiente y facilitar las evaluaciones del curso.
+
+Se realizarán exámenes cortos^[No es necesario que estas evaluaciones rápidas o quices sean programadas o avisadas, pueden realizarse en cualquier clase y en cualquier momento de la clase. Si $p_k$ es la probabilidad de haya quiz en la k-ésima clase, entonces $p_k>0 \ \forall k$] periódicamente para evaluar la evolución de cada estudiante en la asimilación de los temas.
+
+
+## Plan de trabajo por semana
+
+```{r, echo=F}
+#| message: false
+library(kableExtra)
+session <- 1:16
+start_date <- as.Date("14/07/2025", format = "%d/%m/%Y")
+dates <- seq.Date(from = start_date, length.out = length(session), by = "week")
+dates <- format(dates, "%B %d")
+subject <- c(
+  "Motivación, introducción a la IO y modelación matemática. Escritura formal de modelos",
+  "Formulación I",
+  "Formulación II. <b>Seguimiento 1</b>",
+  "Formulación III",
+  "Formulación IV. <b>Seguimiento 2</b>",
+  "Formulación V",
+  "Propiedades geométricas",
+  "Conjuntos y funciones convexas. <b>Examen 1</b>",
+  "Sistemas de ecuaciones lineales. Poliedros, puntos extremos y teorema de representación",
+  "Método algebraico. <b>Seguimiento 3</b>",
+  "Álgebra del método Simplex",
+  "Formato de tabla para el método Simplex. <b>Examen 2</b>",
+  "Solución inicial factible. Soluciones no acotadas, infactibilidad, ciclado",
+  "Análisis de sensibilidad. <b>Seguimiento 4</b>",
+  "Problema dual",
+  "Temas adicionales"
+)
+
+content <- data.frame(session, dates, subject)
+colnames(content) <- c("Semana", "Fecha", "Temas")
+# bck_row1 <- seq(from = 1, to = nrow(content), by=2)
+kableExtra::kbl(x = content, booktabs = T, escape = F) %>%
+  kable_styling(full_width = F, font_size = 16, html_font = "Segoe UI", 
+                bootstrap_options = c("striped", "condensed", "hover"),
+                fixed_thead = T) %>% 
+  column_spec(3, width="35em") #%>% 
+  #row_spec(bck_row1, background = backgrond_color2)
+
+```
+
+## Evaluación
+
+La nota final se calculará como el promedio ponderado de las notas de seguimiento y los exámenes
+
+:::{#eval}
+```{r}
+#| echo: false
+#| message: false
+library(tidyverse)
+library(kableExtra)
+cortes <- c('Seguimiento 1', 'Seguimiento 2',
+            'Examen 1', 'Seguimiento 3',
+            'Examen 2', 'Seguimiento 4',
+            'Examen o proyecto final')
+notas <- c('<b>(10%)</b>', '<b>(10%)</b>', '<b>(20%)</b>',
+            '<b>(10%)</b>', '<b>(20%)</b>', '<b>(15%)</b>',
+            '<b>(15%)</b>')
+dt <- tibble::tibble(Nota = cortes, Peso = notas)
+dt %>% kbl(escape = FALSE) %>% kable_styling(
+  bootstrap_options = c("hover", "estriped", "bordered", "condensed"),
+  full_width = T) %>% 
+  column_spec(1, border_right = F, extra_css = 'vertical-align:middle;')
+```
+:::
+
+## Sobre el [Reglamento](https://gconocimiento.upb.edu.co/gesdoc/Informacin%20Institucional/Reglamento%20Estudiantes%20Pregrado.pdf){target="_blank"}
+
++ <abbr title="Artículo 41">Es necesario que el estudiante participe como mínimo en el 80% del desarrollo del curso (clases). La inasistencia será causal de pérdida del curso con una calificación de cero punto cero cero (0.00), sin posibilidad de cancelación del curso, si la inasistencia fue reportada previamente al sistema de información.</abbr>
++ <abbr title="Artículo 41">La inasistencia por razones de enfermedad o fuerza mayor deberá justificarse
+dentro de los tres (3) días hábiles siguientes al hecho. Cuando el estudiante
+requiera ausentarse para eventos académicos, científicos, culturales y
+deportivos, en representación de la Universidad, deberá reportar este hecho al
+profesor, como mínimo con ocho (8) días hábiles de anticipación.</abbr>
++ <abbr title="Artículo 34, literal a">En cualquiera de las clases se pueden hacer actividades evaluativas de seguimiento (quices, talleres cortos, ejercicios en clase), con o sin programación previa</abbr>.
++ <abbr title="Artículo 35, literal e">La no presentación de una evaluación en la fecha y hora fijada por el profesor conlleva una nota de 0.00 (cero punto cero cero).</abbr>
++ <abbr title="Artículo 35, parágrafo">Cuando, por causas justificadas, no se puedan presentar las evaluaciones parciales o finales en las fechas establecidas por el docente, se podrán solicitar pruebas supletorias ante el director de la Facultad. Estas pruebas tendrán un costo y deberán ser solicitadas dentro de los tres (3) días hábiles siguientes a la programación de la prueba no presentada por el estudiante y, si es autorizada, deberá ser presentada dentro de los 10 días hábiles siguientes a su autorización.</abbr> 
++ <abbr title="Artículo 34, parágrafo 2">Los resultados de las evaluaciones deberán ser informados al estudiante, a más
+tardar, dentro de las dos (2) semanas siguientes a su presentación.</abbr>
+
+## Bibliografía
+
+:::{#refs}
+:::
