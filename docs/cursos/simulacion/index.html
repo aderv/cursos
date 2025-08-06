@@ -79,9 +79,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-title','listing-author','listing-subtitle','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-date','listing-title','listing-author','listing-subtitle','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-title","listing-author","listing-subtitle","listing-image","listing-description","listing-categories"],
+      searchColumns: ["listing-date","listing-title","listing-author","listing-subtitle","listing-image","listing-description","listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -210,7 +210,7 @@ window.Quarto = {
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    <h5 class="quarto-listing-category-title">Categorías</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">Todas <span class="quarto-category-count">(1)</span></div><div class="category" data-category="UyVDMyVBRGxhYm8=">Sílabo <span class="quarto-category-count">(1)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categorías</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">Todas <span class="quarto-category-count">(2)</span></div><div class="category" data-category="RWplcmNpY2lvcw==">Ejercicios <span class="quarto-category-count">(1)</span></div><div class="category" data-category="RXZhbHVhY2lvbmVz">Evaluaciones <span class="quarto-category-count">(1)</span></div><div class="category" data-category="TGVjdHVyYXM=">Lecturas <span class="quarto-category-count">(1)</span></div><div class="category" data-category="U2ltdWxhY2klQzMlQjNu">Simulación <span class="quarto-category-count">(1)</span></div><div class="category" data-category="UyVDMyVBRGxhYm8=">Sílabo <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
 <main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
 
@@ -232,6 +232,12 @@ window.Quarto = {
          <option value="listing-title" data-direction="asc">
           Título
         </option>
+         <option value="listing-date-sort" data-direction="asc">
+          Fecha - Menos reciente
+        </option>
+         <option value="listing-date-sort" data-direction="desc">
+          Fecha - Más reciente
+        </option>
          <option value="listing-author" data-direction="asc">
           Autor/a
         </option>
@@ -243,7 +249,49 @@ window.Quarto = {
     </div>
 </div>
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="UyVDMyVBRGxhYm8=" data-listing-file-modified-sort="1752546103102" data-listing-reading-time-sort="5" data-listing-word-count-sort="973">
+<div class="quarto-post image-right" data-index="0" data-categories="U2ltdWxhY2klQzMlQjNuJTJDRWplcmNpY2lvcyUyQ0xlY3R1cmFzJTJDRXZhbHVhY2lvbmVz" data-listing-date-sort="1749358800000" data-listing-file-modified-sort="1754496988200" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="78">
+<div class="thumbnail">
+<p><a href="../../cursos/simulacion/01-lecturas.html" class="no-external"></a></p><a href="../../cursos/simulacion/01-lecturas.html" class="no-external">
+<p><img loading="lazy" src="../../cursos/simulacion/assets/ejercicios.png" class="thumbnail-image"></p>
+</a><p><a href="../../cursos/simulacion/01-lecturas.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../../cursos/simulacion/01-lecturas.html" class="no-external">Lecturas y ejercicios de repaso</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../../cursos/simulacion/01-lecturas.html" class="no-external"></a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('U2ltdWxhY2klQzMlQjNu'); return false;">
+Simulación
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('RWplcmNpY2lvcw=='); return false;">
+Ejercicios
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('TGVjdHVyYXM='); return false;">
+Lecturas
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('RXZhbHVhY2lvbmVz'); return false;">
+Evaluaciones
+</div>
+</div>
+<div class="listing-description">
+<a href="../../cursos/simulacion/01-lecturas.html" class="no-external">En esta sección podrán encontrar la lista de los ejercicios recomendados de la bibliografía para repasar los temas de las clases y prepararse para los exámenes.</a>
+</div>
+</div>
+<div class="metadata">
+<a href="../../cursos/simulacion/01-lecturas.html" class="no-external">
+<div class="listing-date">
+8 jun 2025
+</div>
+<div class="listing-author">
+Ader Villar
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="1" data-categories="UyVDMyVBRGxhYm8=" data-listing-file-modified-sort="1752546103102" data-listing-reading-time-sort="5" data-listing-word-count-sort="973">
 <div class="thumbnail">
 <p><a href="../../cursos/simulacion/00-silabo.html" class="no-external"></a></p><a href="../../cursos/simulacion/00-silabo.html" class="no-external">
 <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>

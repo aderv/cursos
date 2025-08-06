@@ -1,0 +1,24 @@
+---
+title: "Lecturas y ejercicios de repaso"
+author: "Ader Villar"
+author-title: Profesor
+date: "06/08/2025"
+image: "assets/ejercicios.png"
+categories: [Simulación, Ejercicios, Lecturas, Evaluaciones]
+---
+
+En esta sección podrán encontrar la lista de los ejercicios recomendados de la bibliografía para repasar los temas de las clases y prepararse para los exámenes. 
+
+## Semanas 1 - 4
+
+Libro: Simulation. Sheldon Ross. 6ta edición
+
++ Problemas capítulo 3 (página 44): 3 - 7
+
+Libro: Simulación y análisis de sistemas con ProModel. Eduardo García. 2da edición
+
++ Problemas 3.6 (página 96): 42 (a-g), 44 (a-d), 46 (a-f)
+
+Libro: Discrete-Event System Simulation. Jerry Banks. 5ta edición
+
++ Problemas capítulo 8 (página 326): 1, 3, 5, 6, 9
