@@ -25,3 +25,14 @@ Libro: Probabilidad y Estadística para Ingeniería y Ciencias. Walpole & Myers 
 + Ejercicios de la página 91: 3.21, 3.25, 3.36
 + Ejercicios de la página 117: 4.2, 4.6, 4.13, 4.18
 + Ejercicios de la página 127: 4.34, 4.37, 4.43, 4.39, 4.41
+
+## Semanas 5 -- 7
+
+Libro: Probabilidad y Estadística para Ingeniería y Ciencias. Walpole & Myers & Myers. 9na edición
+
++ Ejercicios de la página 104: 3.37, 3.38, 3.39, 3.49, 3.52, 3.54
++ Ejercicios de la página 137: 4.55, 4.57, 4.59, 4.62, 4.63
+
+Libro: _Introduction to Stochastic Processes with R_. Robert P. Dobrow
+
++ Ejercicios de la página 70: 2.1, 2.2, 2.4
