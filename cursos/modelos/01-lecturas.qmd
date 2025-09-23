@@ -36,3 +36,10 @@ Libro: Probabilidad y Estadística para Ingeniería y Ciencias. Walpole & Myers 
 Libro: _Introduction to Stochastic Processes with R_. Robert P. Dobrow
 
 + Ejercicios de la página 70: 2.1, 2.2, 2.4
+
+## Semanas 8 -- 10
+
+Libro: _Introduction to Stochastic Processes with R_. Robert P. Dobrow
+
++ Lecturas: 2.1, 2.2, 2.3, 2.4  
++ Ejercicios de la página 70: 2.5 -- 2.15
