@@ -4,14 +4,266 @@
     "href": "index.html",
     "title": "Ingeniería Industrial",
     "section": "",
-    "text": "Modelos Estocásticos\n\n\nUna introducción al estudio de modelos probabilísticos para cadenas de Markov y teoría de colas\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nProgramación Lineal\n\n\nUna introducción a la construcción y solución de modelos determinísticos con supuestos de linealidad\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSimulación\n\n\nUna introducción a los modelos de simulación para analizar sistemas complejos y mejorar la toma de decisiones.\n\n\n\n\n\n\n\n\n\n\n\n\nNo hay resultados\n\n\n\n\n\n\n Volver arriba"
+    "text": "Diseño de Experimentos\n\n\nModelos estadísticos para el análisis de datos experimentales\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nModelos Estocásticos\n\n\nUna introducción al estudio de modelos probabilísticos para cadenas de Markov y teoría de colas\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nProgramación Lineal\n\n\nUna introducción a la construcción y solución de modelos determinísticos con supuestos de linealidad\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSimulación\n\n\nUna introducción a los modelos de simulación para analizar sistemas complejos y mejorar la toma de decisiones.\n\n\n\n\n\n\n\n\n\n\n\n\nNo hay resultados\n\n\n\n\n\n\n Volver arriba"
+  },
+  {
+    "objectID": "cursos/simulacion/01-lecturas.html",
+    "href": "cursos/simulacion/01-lecturas.html",
+    "title": "Lecturas y ejercicios de repaso",
+    "section": "",
+    "text": "En esta sección podrán encontrar la lista de los ejercicios recomendados de la bibliografía para repasar los temas de las clases y prepararse para los exámenes."
+  },
+  {
+    "objectID": "cursos/simulacion/01-lecturas.html#semanas-1---4",
+    "href": "cursos/simulacion/01-lecturas.html#semanas-1---4",
+    "title": "Lecturas y ejercicios de repaso",
+    "section": "Semanas 1 - 4",
+    "text": "Semanas 1 - 4\nLibro: Simulation. Sheldon Ross. 6ta edición\n\nProblemas capítulo 3 (página 44): 3 - 7\n\nLibro: Simulación y análisis de sistemas con ProModel. Eduardo García. 2da edición\n\nProblemas 3.6 (página 96): 42 (a-g), 44 (a-d), 46 (a-f)\n\nLibro: Discrete-Event System Simulation. Jerry Banks. 5ta edición\n\nProblemas capítulo 8 (página 326): 1, 3, 5, 6, 9"
+  },
+  {
+    "objectID": "cursos/simulacion/01-lecturas.html#semanas-5---7",
+    "href": "cursos/simulacion/01-lecturas.html#semanas-5---7",
+    "title": "Lecturas y ejercicios de repaso",
+    "section": "Semanas 5 - 7",
+    "text": "Semanas 5 - 7\nLibro: Simulación y análisis de sistemas con ProModel. Eduardo García. 2da edición\n\nProblemas 4.7 (página 138): 14, 16, 17, 18, 20, 21, 24, 26, 27, 32, 34, 35\n\nLibro: Discrete-Event System Simulation. Jerry Banks. 5ta edición\n\nProblemas capítulo 8 (página 326): 10, 14, 15"
+  },
+  {
+    "objectID": "cursos/pl/index.html",
+    "href": "cursos/pl/index.html",
+    "title": "Programación Lineal",
+    "section": "",
+    "text": "Ordenar por\n       Por defecto\n         \n          Título\n        \n         \n          Fecha - Menos reciente\n        \n         \n          Fecha - Más reciente\n        \n         \n          Autor/a\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nLecturas y ejercicios de repaso\n\n\n\n\n\n\nProgramación Lineal\n\n\nEjercicios\n\n\nLecturas\n\n\nEvaluaciones\n\n\n\n\n\n\n\n\n\n22 jul 2025\n\n\nAder Villar\n\n\n\n\n\n\n\n\n\n\n\n\nProgramación Lineal 2025-20\n\n\nUniversidad Pontificia Bolivariana\n\n\n\nSílabo\n\n\ncontenido\n\n\nplan de trabajo\n\n\n\n\n\n\n\n\n\n14 jul 2025\n\n\nAder Villar\n\n\n\n\n\n\nNo hay resultados\n\n Volver arriba"
+  },
+  {
+    "objectID": "cursos/pl/00-silabo.html",
+    "href": "cursos/pl/00-silabo.html",
+    "title": "Programación Lineal 2025-20",
+    "section": "",
+    "text": "En el curso de Programación Lineal se presentan técnicas de modelación y métodos de solución para problemas de optimización en los que el dominio de las variables es continuo y tanto la función objetivo como las restricciones son ecuaciones lineales de dichas variables. Este tipo de modelos matemáticos encuentran un número variado de aplicaciones en ciencias e ingenierías, permitiendo expresar situaciones concretas en términos de modelos matemáticos fáciles de resolver y de escalar. A pesar de su fuerte limitación de linealidad, la programación lineal es bastante versátil y se convierte en una herramienta fundamental para la optimización de procesos y aplicaciones a la Ingeniería Industrial.\nAdemás de trabajar los aspectos teóricos de la materia, se procura también el enfoque práctico de los temas, al tratar con problemas contextualizados y resolverlos usando hojas de cálculo y lenguajes de programación."
+  },
+  {
+    "objectID": "cursos/pl/00-silabo.html#descripción",
+    "href": "cursos/pl/00-silabo.html#descripción",
+    "title": "Programación Lineal 2025-20",
+    "section": "",
+    "text": "En el curso de Programación Lineal se presentan técnicas de modelación y métodos de solución para problemas de optimización en los que el dominio de las variables es continuo y tanto la función objetivo como las restricciones son ecuaciones lineales de dichas variables. Este tipo de modelos matemáticos encuentran un número variado de aplicaciones en ciencias e ingenierías, permitiendo expresar situaciones concretas en términos de modelos matemáticos fáciles de resolver y de escalar. A pesar de su fuerte limitación de linealidad, la programación lineal es bastante versátil y se convierte en una herramienta fundamental para la optimización de procesos y aplicaciones a la Ingeniería Industrial.\nAdemás de trabajar los aspectos teóricos de la materia, se procura también el enfoque práctico de los temas, al tratar con problemas contextualizados y resolverlos usando hojas de cálculo y lenguajes de programación."
+  },
+  {
+    "objectID": "cursos/pl/00-silabo.html#objetivos",
+    "href": "cursos/pl/00-silabo.html#objetivos",
+    "title": "Programación Lineal 2025-20",
+    "section": "Objetivos",
+    "text": "Objetivos\n\nIdentificar adecuadamente problemas de optimización que puedan ser tratados con métodos de Programación Lineal.\nComprender y aplicar los métodos de solución de problemas de programación lineal\nImplementar algoritmos en lenguajes de programación y lenguajes algebraicos que permitan resolver problemas que incluyan decenas o cientos de variables\nPlanear, ejecutar y comunicar de manera clara, proyectos de ingeniería que involucren métodos de programación lineal para la toma de decisiones"
+  },
+  {
+    "objectID": "cursos/pl/00-silabo.html#metodología",
+    "href": "cursos/pl/00-silabo.html#metodología",
+    "title": "Programación Lineal 2025-20",
+    "section": "Metodología",
+    "text": "Metodología\nEl contenido del curso se trabajará semanalmente en 2 sesiones presenciales de 1 hora con 40 minutos cada una. Al ser un curso de 3 créditos, se espera que el estudiante dedique entre 5 y 6 horas de trabajo independiente semanal, adicional a las horas de encuentro directo con el docente.\nDurante las clases se irán desarrollando conceptos, teoría y ejercicios de profundización; y se recomienda la toma de apuntes para posterior estudio y repaso. Se recomendarán ejercicios de la bibliografía sugerida para fomentar la práctica independiente y facilitar las evaluaciones del curso.\nSe realizarán exámenes cortos1 periódicamente para evaluar la evolución de cada estudiante en la asimilación de los temas.\n1 No es necesario que estas evaluaciones rápidas o quices sean programadas o avisadas, pueden realizarse en cualquier clase y en cualquier momento de la clase. Si \\(p_k\\) es la probabilidad de haya quiz en la k-ésima clase, entonces \\(p_k&gt;0 \\ \\forall k\\)"
+  },
+  {
+    "objectID": "cursos/pl/00-silabo.html#plan-de-trabajo-por-semana",
+    "href": "cursos/pl/00-silabo.html#plan-de-trabajo-por-semana",
+    "title": "Programación Lineal 2025-20",
+    "section": "Plan de trabajo por semana",
+    "text": "Plan de trabajo por semana\n\n\n\n\n\nSemana\nFecha\nTemas\n\n\n\n\n1\njulio 14\nMotivación, introducción a la IO y modelación matemática. Escritura formal de modelos\n\n\n2\njulio 21\nFormulación I\n\n\n3\njulio 28\nFormulación II. Seguimiento 1\n\n\n4\nagosto 04\nFormulación III\n\n\n5\nagosto 11\nFormulación IV. Seguimiento 2\n\n\n6\nagosto 18\nFormulación V\n\n\n7\nagosto 25\nPropiedades geométricas\n\n\n8\nseptiembre 01\nConjuntos y funciones convexas. Examen 1\n\n\n9\nseptiembre 08\nSistemas de ecuaciones lineales. Poliedros, puntos extremos y teorema de representación\n\n\n10\nseptiembre 15\nMétodo algebraico. Seguimiento 3\n\n\n11\nseptiembre 22\nÁlgebra del método Simplex\n\n\n12\nseptiembre 29\nFormato de tabla para el método Simplex. Examen 2\n\n\n13\noctubre 06\nSolución inicial factible. Soluciones no acotadas, infactibilidad, ciclado\n\n\n14\noctubre 13\nAnálisis de sensibilidad. Seguimiento 4\n\n\n15\noctubre 20\nProblema dual\n\n\n16\noctubre 27\nTemas adicionales"
+  },
+  {
+    "objectID": "cursos/pl/00-silabo.html#evaluación",
+    "href": "cursos/pl/00-silabo.html#evaluación",
+    "title": "Programación Lineal 2025-20",
+    "section": "Evaluación",
+    "text": "Evaluación\nLa nota final se calculará como el promedio ponderado de las notas de seguimiento y los exámenes\n\n\n\n\n\n\nNota\nPeso\n\n\n\n\nSeguimiento 1\n(10%)\n\n\nSeguimiento 2\n(10%)\n\n\nExamen 1\n(20%)\n\n\nSeguimiento 3\n(10%)\n\n\nExamen 2\n(20%)\n\n\nSeguimiento 4\n(15%)\n\n\nExamen o proyecto final\n(15%)"
+  },
+  {
+    "objectID": "cursos/pl/00-silabo.html#sobre-el-reglamento",
+    "href": "cursos/pl/00-silabo.html#sobre-el-reglamento",
+    "title": "Programación Lineal 2025-20",
+    "section": "Sobre el Reglamento",
+    "text": "Sobre el Reglamento\n\nEs necesario que el estudiante participe como mínimo en el 80% del desarrollo del curso (clases). La inasistencia será causal de pérdida del curso con una calificación de cero punto cero cero (0.00), sin posibilidad de cancelación del curso, si la inasistencia fue reportada previamente al sistema de información.\nLa inasistencia por razones de enfermedad o fuerza mayor deberá justificarse dentro de los tres (3) días hábiles siguientes al hecho. Cuando el estudiante requiera ausentarse para eventos académicos, científicos, culturales y deportivos, en representación de la Universidad, deberá reportar este hecho al profesor, como mínimo con ocho (8) días hábiles de anticipación.\nEn cualquiera de las clases se pueden hacer actividades evaluativas de seguimiento (quices, talleres cortos, ejercicios en clase), con o sin programación previa.\nLa no presentación de una evaluación en la fecha y hora fijada por el profesor conlleva una nota de 0.00 (cero punto cero cero).\nCuando, por causas justificadas, no se puedan presentar las evaluaciones parciales o finales en las fechas establecidas por el docente, se podrán solicitar pruebas supletorias ante el director de la Facultad. Estas pruebas tendrán un costo y deberán ser solicitadas dentro de los tres (3) días hábiles siguientes a la programación de la prueba no presentada por el estudiante y, si es autorizada, deberá ser presentada dentro de los 10 días hábiles siguientes a su autorización.\nLos resultados de las evaluaciones deberán ser informados al estudiante, a más tardar, dentro de las dos (2) semanas siguientes a su presentación."
+  },
+  {
+    "objectID": "cursos/pl/00-silabo.html#bibliografía",
+    "href": "cursos/pl/00-silabo.html#bibliografía",
+    "title": "Programación Lineal 2025-20",
+    "section": "Bibliografía",
+    "text": "Bibliografía\n\n\n[1] H. A. Taha, Operations Research: An Introduction, 10th ed. Pearson, 2017.\n\n\n[2] F. S. Hillier y G. J. Lieberman, Introduction to Operations Research, 10th ed. McGrawHill, 2015.\n\n\n[3] M. S. Bazaraa, J. J. Jarvis, y H. D. Sherali, Linear Programming and Network Flows. Wiley-Interscience, 2011.\n\n\n[4] H. P. Williams, Model building in Mathematical Programming, 5th ed. John Wiley & Sons, 2013.\n\n\n[5] M. Arenales, V. Armentano, R. Morabito, y H. Yanasse, Pesquisa Operacional para cursos de Engenharia. elsevier, 2007.\n\n\n[6] R. J. Vanderbei, «Linear Programming: Foundations and Extensions». Springer, 2020."
+  },
+  {
+    "objectID": "cursos/modelos/02-silabo-modelos-2026-10.html",
+    "href": "cursos/modelos/02-silabo-modelos-2026-10.html",
+    "title": "Modelos estocásticos 2026-10",
+    "section": "",
+    "text": "El contenido del curso se trabajará semanalmente en 2 sesiones presenciales de 1 hora con 40 minutos cada una. Al ser un curso de 3 créditos, se espera que el estudiante dedique entre 5 y 6 horas de trabajo independiente semanal, adicional a las horas de encuentro directo con el docente.\nDurante las clases se irán desarrollando conceptos, teoría y ejercicios de profundización; y se recomienda la toma de apuntes para posterior estudio y repaso. Se recomendarán ejercicios de la bibliografía para fomentar la práctica independiente y facilitar las evaluaciones del curso.\nSe realizarán exámenes cortos1 periódicamente para evaluar la evolución de cada estudiante en la asimilación de los temas.\n1 No es necesario que estas evaluaciones rápidas o quices sean programadas o avisadas, pueden realizarse en cualquier clase y en cualquier momento de la clase. Si \\(p_k\\) es la probabilidad de haya quiz en la k-ésima clase, entonces \\(p_k&gt;0 \\ \\forall k\\)Se espera que los estudiantes dominen temas básicos de su primer curso de probabilidad y estadística. Las primeras 2 semanas se dedicarán a un repaso rápido de temas tales como: probabilidad, probabilidad condicional, variables aleatorias, distribuciones de probabilidad y esperanza matemática. Esto, sin embargo, no pretende ser un estudio profundo de la materia y no reemplaza el conocimiento previo que se espera de los estudiantes.\nSon importantes también los conceptos aprendidos en álgebra lineal y los cursos de cálculo para asimilar con mayor facilidad los temas de Modelos estocásticos.\nEl curso es de naturaleza teórica, por lo que se hace énfasis en la claridad y precisión de los conceptos matemáticos utilizados en las aplicaciones. Las aplicaciones mostradas durante el curso estarán enfocadas en los temas más relevantes para la Ingeniería Industrial, tales como la teoría de colas.\n\n\n\n\n\n\n\n\nSemana\nFecha\nTemas\n\n\n\n\n1\nenero 19\nEspacio muestral, eventos, probabilidad, probabilidad condicional, teorema de Bayes\n\n\n2\nenero 26\nVariables aleatorias, distribuciones de probabilidad, esperanza matemática\n\n\n3\nfebrero 02\nDistribuciones conjuntas, distribuciones marginales y condicionales. Seguimiento 1\n\n\n4\nfebrero 09\nCadenas de Markov I\n\n\n5\nfebrero 16\nCadenas de Markov II. Seguimiento 2\n\n\n6\nfebrero 23\nCadenas de Markov III\n\n\n7\nmarzo 02\nCadenas de Markov IV\n\n\n8\nmarzo 09\nDistribución Exponencial y proceso de Poisson I. Examen 1\n\n\n9\nmarzo 16\nDistribución Exponencial y proceso de Poisson II\n\n\n10\nmarzo 23\nDistribución Exponencial y proceso de Poisson III. Seguimiento 3\n\n\n11\nmarzo 30\nSemana Santa\n\n\n12\nabril 06\nTeoría de colas I\n\n\n13\nabril 13\nTeoría de colas II. Examen 2\n\n\n14\nabril 20\nTeoría de colas III\n\n\n15\nabril 27\nTeoría de colas IV. Seguimiento 4\n\n\n16\nmayo 04\nTemas adicionales I\n\n\n17\nmayo 11\nTemas adicionales II\n\n\n\n\n\n\n\n\n\n\nLa nota final se calculará como el promedio ponderado de las notas de seguimiento y los exámenes\n\n\n\n\n\n\nNota\nPeso\n\n\n\n\nSeguimiento 1\n(10%)\n\n\nSeguimiento 2\n(10%)\n\n\nExamen 1\n(20%)\n\n\nSeguimiento 3\n(10%)\n\n\nExamen 2\n(20%)\n\n\nSeguimiento 4\n(15%)\n\n\nExamen o proyecto final\n(15%)\n\n\n\n\n\n\n\n\n\n\n\n\nEs necesario que el estudiante participe como mínimo en el 80% del desarrollo del curso (clases). La inasistencia será causal de pérdida del curso con una calificación de cero punto cero cero (0.00), sin posibilidad de cancelación del curso, si la inasistencia fue reportada previamente al sistema de información.\nLa inasistencia por razones de enfermedad o fuerza mayor deberá justificarse dentro de los tres (3) días hábiles siguientes al hecho. Cuando el estudiante requiera ausentarse para eventos académicos, científicos, culturales y deportivos, en representación de la Universidad, deberá reportar este hecho al profesor, como mínimo con ocho (8) días hábiles de anticipación.\nEn cualquiera de las clases se pueden hacer actividades evaluativas de seguimiento (quices, talleres cortos, ejercicios en clase), con o sin programación previa.\nLa no presentación de una evaluación en la fecha y hora fijada por el profesor conlleva una nota de 0.00 (cero punto cero cero).\nCuando, por causas justificadas, no se puedan presentar las evaluaciones parciales o finales en las fechas establecidas por el docente, se podrá solicitar pruebas supletorias ante el director de la Facultad. Estas pruebas tendrán un costo y deberán ser solicitadas dentro de los tres (3) días hábiles siguientes a la programación de la prueba no presentada por el estudiante y, si es autorizada, deberá ser presentada dentro de los 10 días hábiles siguientes a su autorización.\nLos resultados de las evaluaciones deberán ser informados al estudiante, a más tardar, dentro de las dos (2) semanas siguientes a su presentación."
+  },
+  {
+    "objectID": "cursos/modelos/02-silabo-modelos-2026-10.html#metodología-y-conocimientos-previos",
+    "href": "cursos/modelos/02-silabo-modelos-2026-10.html#metodología-y-conocimientos-previos",
+    "title": "Modelos estocásticos 2026-10",
+    "section": "",
+    "text": "El contenido del curso se trabajará semanalmente en 2 sesiones presenciales de 1 hora con 40 minutos cada una. Al ser un curso de 3 créditos, se espera que el estudiante dedique entre 5 y 6 horas de trabajo independiente semanal, adicional a las horas de encuentro directo con el docente.\nDurante las clases se irán desarrollando conceptos, teoría y ejercicios de profundización; y se recomienda la toma de apuntes para posterior estudio y repaso. Se recomendarán ejercicios de la bibliografía para fomentar la práctica independiente y facilitar las evaluaciones del curso.\nSe realizarán exámenes cortos1 periódicamente para evaluar la evolución de cada estudiante en la asimilación de los temas.\n1 No es necesario que estas evaluaciones rápidas o quices sean programadas o avisadas, pueden realizarse en cualquier clase y en cualquier momento de la clase. Si \\(p_k\\) es la probabilidad de haya quiz en la k-ésima clase, entonces \\(p_k&gt;0 \\ \\forall k\\)Se espera que los estudiantes dominen temas básicos de su primer curso de probabilidad y estadística. Las primeras 2 semanas se dedicarán a un repaso rápido de temas tales como: probabilidad, probabilidad condicional, variables aleatorias, distribuciones de probabilidad y esperanza matemática. Esto, sin embargo, no pretende ser un estudio profundo de la materia y no reemplaza el conocimiento previo que se espera de los estudiantes.\nSon importantes también los conceptos aprendidos en álgebra lineal y los cursos de cálculo para asimilar con mayor facilidad los temas de Modelos estocásticos.\nEl curso es de naturaleza teórica, por lo que se hace énfasis en la claridad y precisión de los conceptos matemáticos utilizados en las aplicaciones. Las aplicaciones mostradas durante el curso estarán enfocadas en los temas más relevantes para la Ingeniería Industrial, tales como la teoría de colas."
+  },
+  {
+    "objectID": "cursos/modelos/02-silabo-modelos-2026-10.html#plan-de-trabajo-por-semana",
+    "href": "cursos/modelos/02-silabo-modelos-2026-10.html#plan-de-trabajo-por-semana",
+    "title": "Modelos estocásticos 2026-10",
+    "section": "",
+    "text": "Semana\nFecha\nTemas\n\n\n\n\n1\nenero 19\nEspacio muestral, eventos, probabilidad, probabilidad condicional, teorema de Bayes\n\n\n2\nenero 26\nVariables aleatorias, distribuciones de probabilidad, esperanza matemática\n\n\n3\nfebrero 02\nDistribuciones conjuntas, distribuciones marginales y condicionales. Seguimiento 1\n\n\n4\nfebrero 09\nCadenas de Markov I\n\n\n5\nfebrero 16\nCadenas de Markov II. Seguimiento 2\n\n\n6\nfebrero 23\nCadenas de Markov III\n\n\n7\nmarzo 02\nCadenas de Markov IV\n\n\n8\nmarzo 09\nDistribución Exponencial y proceso de Poisson I. Examen 1\n\n\n9\nmarzo 16\nDistribución Exponencial y proceso de Poisson II\n\n\n10\nmarzo 23\nDistribución Exponencial y proceso de Poisson III. Seguimiento 3\n\n\n11\nmarzo 30\nSemana Santa\n\n\n12\nabril 06\nTeoría de colas I\n\n\n13\nabril 13\nTeoría de colas II. Examen 2\n\n\n14\nabril 20\nTeoría de colas III\n\n\n15\nabril 27\nTeoría de colas IV. Seguimiento 4\n\n\n16\nmayo 04\nTemas adicionales I\n\n\n17\nmayo 11\nTemas adicionales II"
+  },
+  {
+    "objectID": "cursos/modelos/02-silabo-modelos-2026-10.html#evaluación",
+    "href": "cursos/modelos/02-silabo-modelos-2026-10.html#evaluación",
+    "title": "Modelos estocásticos 2026-10",
+    "section": "",
+    "text": "La nota final se calculará como el promedio ponderado de las notas de seguimiento y los exámenes\n\n\n\n\n\n\nNota\nPeso\n\n\n\n\nSeguimiento 1\n(10%)\n\n\nSeguimiento 2\n(10%)\n\n\nExamen 1\n(20%)\n\n\nSeguimiento 3\n(10%)\n\n\nExamen 2\n(20%)\n\n\nSeguimiento 4\n(15%)\n\n\nExamen o proyecto final\n(15%)"
+  },
+  {
+    "objectID": "cursos/modelos/02-silabo-modelos-2026-10.html#sobre-el-reglamento",
+    "href": "cursos/modelos/02-silabo-modelos-2026-10.html#sobre-el-reglamento",
+    "title": "Modelos estocásticos 2026-10",
+    "section": "",
+    "text": "Es necesario que el estudiante participe como mínimo en el 80% del desarrollo del curso (clases). La inasistencia será causal de pérdida del curso con una calificación de cero punto cero cero (0.00), sin posibilidad de cancelación del curso, si la inasistencia fue reportada previamente al sistema de información.\nLa inasistencia por razones de enfermedad o fuerza mayor deberá justificarse dentro de los tres (3) días hábiles siguientes al hecho. Cuando el estudiante requiera ausentarse para eventos académicos, científicos, culturales y deportivos, en representación de la Universidad, deberá reportar este hecho al profesor, como mínimo con ocho (8) días hábiles de anticipación.\nEn cualquiera de las clases se pueden hacer actividades evaluativas de seguimiento (quices, talleres cortos, ejercicios en clase), con o sin programación previa.\nLa no presentación de una evaluación en la fecha y hora fijada por el profesor conlleva una nota de 0.00 (cero punto cero cero).\nCuando, por causas justificadas, no se puedan presentar las evaluaciones parciales o finales en las fechas establecidas por el docente, se podrá solicitar pruebas supletorias ante el director de la Facultad. Estas pruebas tendrán un costo y deberán ser solicitadas dentro de los tres (3) días hábiles siguientes a la programación de la prueba no presentada por el estudiante y, si es autorizada, deberá ser presentada dentro de los 10 días hábiles siguientes a su autorización.\nLos resultados de las evaluaciones deberán ser informados al estudiante, a más tardar, dentro de las dos (2) semanas siguientes a su presentación."
+  },
+  {
+    "objectID": "cursos/modelos/00-silabo.html",
+    "href": "cursos/modelos/00-silabo.html",
+    "title": "Modelos estocásticos 2025-20",
+    "section": "",
+    "text": "El contenido del curso se trabajará semanalmente en 2 sesiones presenciales de 1 hora con 40 minutos cada una. Al ser un curso de 3 créditos, se espera que el estudiante dedique entre 5 y 6 horas de trabajo independiente semanal, adicional a las horas de encuentro directo con el docente.\nDurante las clases se irán desarrollando conceptos, teoría y ejercicios de profundización; y se recomienda la toma de apuntes para posterior estudio y repaso. Se recomendarán ejercicios de la bibliografía para fomentar la práctica independiente y facilitar las evaluaciones del curso.\nSe realizarán exámenes cortos1 periódicamente para evaluar la evolución de cada estudiante en la asimilación de los temas.\n1 No es necesario que estas evaluaciones rápidas o quices sean programadas o avisadas, pueden realizarse en cualquier clase y en cualquier momento de la clase. Si \\(p_k\\) es la probabilidad de haya quiz en la k-ésima clase, entonces \\(p_k&gt;0 \\ \\forall k\\)Se espera que los estudiantes dominen temas básicos de su primer curso de probabilidad y estadística. Las primeras 2 semanas se dedicarán a un repaso rápido de temas tales como: probabilidad, probabilidad condicional, variables aleatorias, distribuciones de probabilidad y esperanza matemática. Esto, sin embargo, no pretende ser un estudio profundo de la materia y no reemplaza el conocimiento previo que se espera de los estudiantes.\nSon importantes también los conceptos aprendidos en álgebra lineal y los cursos de cálculo para asimilar con mayor facilidad los temas de Modelos estocásticos.\nEl curso es de naturaleza teórica, por lo que se hace énfasis en la claridad y precisión de los conceptos matemáticos utilizados en las aplicaciones. Las aplicaciones mostradas durante el curso estarán enfocadas en los temas más relevantes para la Ingeniería Industrial, tales como la teoría de colas.\n\n\n\n\n\n\n\n\nSemana\nFecha\nTemas\n\n\n\n\n1\njulio 14\nEspacio muestral, eventos, probabilidad, probabilidad condicional, teorema de Bayes\n\n\n2\njulio 21\nVariables aleatorias, distribuciones de probabilidad, esperanza matemática\n\n\n3\njulio 28\nDistribuciones conjuntas, distribuciones marginales y condicionales. Seguimiento 1\n\n\n4\nagosto 04\nCadenas de Markov I\n\n\n5\nagosto 11\nCadenas de Markov II. Seguimiento 2\n\n\n6\nagosto 18\nCadenas de Markov III\n\n\n7\nagosto 25\nCadenas de Markov IV\n\n\n8\nseptiembre 01\nDistribución Exponencial y proceso de Poisson I. Examen 1\n\n\n9\nseptiembre 08\nDistribución Exponencial y proceso de Poisson II\n\n\n10\nseptiembre 15\nDistribución Exponencial y proceso de Poisson III. Seguimiento 3\n\n\n11\nseptiembre 22\nTeoría de colas I\n\n\n12\nseptiembre 29\nTeoría de colas II. Examen 2\n\n\n13\noctubre 06\nTeoría de colas III\n\n\n14\noctubre 13\nTeoría de colas IV. Seguimiento 4\n\n\n15\noctubre 20\nCadenas de Markov de tiempo continuo I\n\n\n16\noctubre 27\nCadenas de Markov de tiempo continuo II\n\n\n\n\n\n\n\n\n\n\nLa nota final se calculará como el promedio ponderado de las notas de seguimiento y los exámenes\n\n\n\n\n\n\nNota\nPeso\n\n\n\n\nSeguimiento 1\n(10%)\n\n\nSeguimiento 2\n(10%)\n\n\nExamen 1\n(20%)\n\n\nSeguimiento 3\n(10%)\n\n\nExamen 2\n(20%)\n\n\nSeguimiento 4\n(15%)\n\n\nExamen o proyecto final\n(15%)\n\n\n\n\n\n\n\n\n\n\n\n\nEs necesario que el estudiante participe como mínimo en el 80% del desarrollo del curso (clases). La inasistencia será causal de pérdida del curso con una calificación de cero punto cero cero (0.00), sin posibilidad de cancelación del curso, si la inasistencia fue reportada previamente al sistema de información.\nLa inasistencia por razones de enfermedad o fuerza mayor deberá justificarse dentro de los tres (3) días hábiles siguientes al hecho. Cuando el estudiante requiera ausentarse para eventos académicos, científicos, culturales y deportivos, en representación de la Universidad, deberá reportar este hecho al profesor, como mínimo con ocho (8) días hábiles de anticipación.\nEn cualquiera de las clases se pueden hacer actividades evaluativas de seguimiento (quices, talleres cortos, ejercicios en clase), con o sin programación previa.\nLa no presentación de una evaluación en la fecha y hora fijada por el profesor conlleva una nota de 0.00 (cero punto cero cero).\nCuando, por causas justificadas, no se puedan presentar las evaluaciones parciales o finales en las fechas establecidas por el docente, se podrá solicitar pruebas supletorias ante el director de la Facultad. Estas pruebas tendrán un costo y deberán ser solicitadas dentro de los tres (3) días hábiles siguientes a la programación de la prueba no presentada por el estudiante y, si es autorizada, deberá ser presentada dentro de los 10 días hábiles siguientes a su autorización.\nLos resultados de las evaluaciones deberán ser informados al estudiante, a más tardar, dentro de las dos (2) semanas siguientes a su presentación."
+  },
+  {
+    "objectID": "cursos/modelos/00-silabo.html#metodología-y-conocimientos-previos",
+    "href": "cursos/modelos/00-silabo.html#metodología-y-conocimientos-previos",
+    "title": "Modelos estocásticos 2025-20",
+    "section": "",
+    "text": "El contenido del curso se trabajará semanalmente en 2 sesiones presenciales de 1 hora con 40 minutos cada una. Al ser un curso de 3 créditos, se espera que el estudiante dedique entre 5 y 6 horas de trabajo independiente semanal, adicional a las horas de encuentro directo con el docente.\nDurante las clases se irán desarrollando conceptos, teoría y ejercicios de profundización; y se recomienda la toma de apuntes para posterior estudio y repaso. Se recomendarán ejercicios de la bibliografía para fomentar la práctica independiente y facilitar las evaluaciones del curso.\nSe realizarán exámenes cortos1 periódicamente para evaluar la evolución de cada estudiante en la asimilación de los temas.\n1 No es necesario que estas evaluaciones rápidas o quices sean programadas o avisadas, pueden realizarse en cualquier clase y en cualquier momento de la clase. Si \\(p_k\\) es la probabilidad de haya quiz en la k-ésima clase, entonces \\(p_k&gt;0 \\ \\forall k\\)Se espera que los estudiantes dominen temas básicos de su primer curso de probabilidad y estadística. Las primeras 2 semanas se dedicarán a un repaso rápido de temas tales como: probabilidad, probabilidad condicional, variables aleatorias, distribuciones de probabilidad y esperanza matemática. Esto, sin embargo, no pretende ser un estudio profundo de la materia y no reemplaza el conocimiento previo que se espera de los estudiantes.\nSon importantes también los conceptos aprendidos en álgebra lineal y los cursos de cálculo para asimilar con mayor facilidad los temas de Modelos estocásticos.\nEl curso es de naturaleza teórica, por lo que se hace énfasis en la claridad y precisión de los conceptos matemáticos utilizados en las aplicaciones. Las aplicaciones mostradas durante el curso estarán enfocadas en los temas más relevantes para la Ingeniería Industrial, tales como la teoría de colas."
+  },
+  {
+    "objectID": "cursos/modelos/00-silabo.html#plan-de-trabajo-por-semana",
+    "href": "cursos/modelos/00-silabo.html#plan-de-trabajo-por-semana",
+    "title": "Modelos estocásticos 2025-20",
+    "section": "",
+    "text": "Semana\nFecha\nTemas\n\n\n\n\n1\njulio 14\nEspacio muestral, eventos, probabilidad, probabilidad condicional, teorema de Bayes\n\n\n2\njulio 21\nVariables aleatorias, distribuciones de probabilidad, esperanza matemática\n\n\n3\njulio 28\nDistribuciones conjuntas, distribuciones marginales y condicionales. Seguimiento 1\n\n\n4\nagosto 04\nCadenas de Markov I\n\n\n5\nagosto 11\nCadenas de Markov II. Seguimiento 2\n\n\n6\nagosto 18\nCadenas de Markov III\n\n\n7\nagosto 25\nCadenas de Markov IV\n\n\n8\nseptiembre 01\nDistribución Exponencial y proceso de Poisson I. Examen 1\n\n\n9\nseptiembre 08\nDistribución Exponencial y proceso de Poisson II\n\n\n10\nseptiembre 15\nDistribución Exponencial y proceso de Poisson III. Seguimiento 3\n\n\n11\nseptiembre 22\nTeoría de colas I\n\n\n12\nseptiembre 29\nTeoría de colas II. Examen 2\n\n\n13\noctubre 06\nTeoría de colas III\n\n\n14\noctubre 13\nTeoría de colas IV. Seguimiento 4\n\n\n15\noctubre 20\nCadenas de Markov de tiempo continuo I\n\n\n16\noctubre 27\nCadenas de Markov de tiempo continuo II"
+  },
+  {
+    "objectID": "cursos/modelos/00-silabo.html#evaluación",
+    "href": "cursos/modelos/00-silabo.html#evaluación",
+    "title": "Modelos estocásticos 2025-20",
+    "section": "",
+    "text": "La nota final se calculará como el promedio ponderado de las notas de seguimiento y los exámenes\n\n\n\n\n\n\nNota\nPeso\n\n\n\n\nSeguimiento 1\n(10%)\n\n\nSeguimiento 2\n(10%)\n\n\nExamen 1\n(20%)\n\n\nSeguimiento 3\n(10%)\n\n\nExamen 2\n(20%)\n\n\nSeguimiento 4\n(15%)\n\n\nExamen o proyecto final\n(15%)"
+  },
+  {
+    "objectID": "cursos/modelos/00-silabo.html#sobre-el-reglamento",
+    "href": "cursos/modelos/00-silabo.html#sobre-el-reglamento",
+    "title": "Modelos estocásticos 2025-20",
+    "section": "",
+    "text": "Es necesario que el estudiante participe como mínimo en el 80% del desarrollo del curso (clases). La inasistencia será causal de pérdida del curso con una calificación de cero punto cero cero (0.00), sin posibilidad de cancelación del curso, si la inasistencia fue reportada previamente al sistema de información.\nLa inasistencia por razones de enfermedad o fuerza mayor deberá justificarse dentro de los tres (3) días hábiles siguientes al hecho. Cuando el estudiante requiera ausentarse para eventos académicos, científicos, culturales y deportivos, en representación de la Universidad, deberá reportar este hecho al profesor, como mínimo con ocho (8) días hábiles de anticipación.\nEn cualquiera de las clases se pueden hacer actividades evaluativas de seguimiento (quices, talleres cortos, ejercicios en clase), con o sin programación previa.\nLa no presentación de una evaluación en la fecha y hora fijada por el profesor conlleva una nota de 0.00 (cero punto cero cero).\nCuando, por causas justificadas, no se puedan presentar las evaluaciones parciales o finales en las fechas establecidas por el docente, se podrá solicitar pruebas supletorias ante el director de la Facultad. Estas pruebas tendrán un costo y deberán ser solicitadas dentro de los tres (3) días hábiles siguientes a la programación de la prueba no presentada por el estudiante y, si es autorizada, deberá ser presentada dentro de los 10 días hábiles siguientes a su autorización.\nLos resultados de las evaluaciones deberán ser informados al estudiante, a más tardar, dentro de las dos (2) semanas siguientes a su presentación."
+  },
+  {
+    "objectID": "cursos/doe/00-silabo-doe-2026-10.html",
+    "href": "cursos/doe/00-silabo-doe-2026-10.html",
+    "title": "Diseño de Experimentos 2026-10",
+    "section": "",
+    "text": "Curso de Diseño de Experimentos\n\n\n\n\n\n\n\n\n\nEs necesario que el estudiante participe como mínimo en el 80% del desarrollo del curso (clases). La inasistencia será causal de pérdida del curso con una calificación de cero punto cero cero (0.00), sin posibilidad de cancelación del curso, si la inasistencia fue reportada previamente al sistema de información.\nLa inasistencia por razones de enfermedad o fuerza mayor deberá justificarse dentro de los tres (3) días hábiles siguientes al hecho. Cuando el estudiante requiera ausentarse para eventos académicos, científicos, culturales y deportivos, en representación de la Universidad, deberá reportar este hecho al profesor, como mínimo con ocho (8) días hábiles de anticipación.\nEn cualquiera de las clases se pueden hacer actividades evaluativas de seguimiento (quices, talleres cortos, ejercicios en clase), con o sin programación previa.\nLa no presentación de una evaluación en la fecha y hora fijada por el profesor conlleva una nota de 0.00 (cero punto cero cero).\nCuando, por causas justificadas, no se puedan presentar las evaluaciones parciales o finales en las fechas establecidas por el docente, se podrá solicitar pruebas supletorias ante el director de la Facultad. Estas pruebas tendrán un costo y deberán ser solicitadas dentro de los tres (3) días hábiles siguientes a la programación de la prueba no presentada por el estudiante y, si es autorizada, deberá ser presentada dentro de los 10 días hábiles siguientes a su autorización.\nLos resultados de las evaluaciones deberán ser informados al estudiante, a más tardar, dentro de las dos (2) semanas siguientes a su presentación."
+  },
+  {
+    "objectID": "cursos/doe/00-silabo-doe-2026-10.html#sobre-el-reglamento",
+    "href": "cursos/doe/00-silabo-doe-2026-10.html#sobre-el-reglamento",
+    "title": "Diseño de Experimentos 2026-10",
+    "section": "",
+    "text": "Es necesario que el estudiante participe como mínimo en el 80% del desarrollo del curso (clases). La inasistencia será causal de pérdida del curso con una calificación de cero punto cero cero (0.00), sin posibilidad de cancelación del curso, si la inasistencia fue reportada previamente al sistema de información.\nLa inasistencia por razones de enfermedad o fuerza mayor deberá justificarse dentro de los tres (3) días hábiles siguientes al hecho. Cuando el estudiante requiera ausentarse para eventos académicos, científicos, culturales y deportivos, en representación de la Universidad, deberá reportar este hecho al profesor, como mínimo con ocho (8) días hábiles de anticipación.\nEn cualquiera de las clases se pueden hacer actividades evaluativas de seguimiento (quices, talleres cortos, ejercicios en clase), con o sin programación previa.\nLa no presentación de una evaluación en la fecha y hora fijada por el profesor conlleva una nota de 0.00 (cero punto cero cero).\nCuando, por causas justificadas, no se puedan presentar las evaluaciones parciales o finales en las fechas establecidas por el docente, se podrá solicitar pruebas supletorias ante el director de la Facultad. Estas pruebas tendrán un costo y deberán ser solicitadas dentro de los tres (3) días hábiles siguientes a la programación de la prueba no presentada por el estudiante y, si es autorizada, deberá ser presentada dentro de los 10 días hábiles siguientes a su autorización.\nLos resultados de las evaluaciones deberán ser informados al estudiante, a más tardar, dentro de las dos (2) semanas siguientes a su presentación."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n\n\n Volver arriba"
+  },
+  {
+    "objectID": "cursos/doe/index.html",
+    "href": "cursos/doe/index.html",
+    "title": "Diseño de Experimentos",
+    "section": "",
+    "text": "Ordenar por\n       Por defecto\n         \n          Título\n        \n         \n          Fecha - Menos reciente\n        \n         \n          Fecha - Más reciente\n        \n         \n          Autor/a\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nDiseño de Experimentos 2026-10\n\n\nUniversidad Pontificia Bolivariana\n\n\n\nSílabo\n\n\n\n\n\n\n\n\n\n19 ene 2026\n\n\nAder Villar\n\n\n\n\n\n\nNo hay resultados\n\n Volver arriba"
+  },
+  {
+    "objectID": "cursos/modelos/01-lecturas.html",
+    "href": "cursos/modelos/01-lecturas.html",
+    "title": "Lecturas y ejercicios de repaso",
+    "section": "",
+    "text": "En esta sección podrán encontrar la lista de los ejercicios recomendados de la bibliografía para repasar los temas de las clases y prepararse para los exámenes."
+  },
+  {
+    "objectID": "cursos/modelos/01-lecturas.html#semanas-1-y-2",
+    "href": "cursos/modelos/01-lecturas.html#semanas-1-y-2",
+    "title": "Lecturas y ejercicios de repaso",
+    "section": "Semanas 1 y 2",
+    "text": "Semanas 1 y 2\nLibro: Probabilidad y Estadística para Ingeniería y Ciencias. Walpole & Myers & Myers. 9na edición\n\nEjercicios de la sección 2.2 (página 42): 2.4, 2.5, 2.7, 2.8, 2.11, 2.14, 2.15\nEjercicios de la sección 2.4 y 2.5 (página 59): 2.52, 2.53, 2.66, 2.69, 2.72\nEjercicios de la sección 2.6 (página 69): 2.73, 2.75, 2.77, 2.79, 2.83, 2.85, 2.88, 2.90, 2.92, 2.93"
+  },
+  {
+    "objectID": "cursos/modelos/01-lecturas.html#semanas-3-y-4",
+    "href": "cursos/modelos/01-lecturas.html#semanas-3-y-4",
+    "title": "Lecturas y ejercicios de repaso",
+    "section": "Semanas 3 y 4",
+    "text": "Semanas 3 y 4\nLibro: Probabilidad y Estadística para Ingeniería y Ciencias. Walpole & Myers & Myers. 9na edición\n\nEjercicios de la página 76: 2.95, 2.97, 2.99, 2.100, 2.101\nEjercicios de la página 91: 3.21, 3.25, 3.36\nEjercicios de la página 117: 4.2, 4.6, 4.13, 4.18\nEjercicios de la página 127: 4.34, 4.37, 4.43, 4.39, 4.41"
+  },
+  {
+    "objectID": "cursos/modelos/01-lecturas.html#semanas-5-7",
+    "href": "cursos/modelos/01-lecturas.html#semanas-5-7",
+    "title": "Lecturas y ejercicios de repaso",
+    "section": "Semanas 5 – 7",
+    "text": "Semanas 5 – 7\nLibro: Probabilidad y Estadística para Ingeniería y Ciencias. Walpole & Myers & Myers. 9na edición\n\nEjercicios de la página 104: 3.37, 3.38, 3.39, 3.49, 3.52, 3.54\nEjercicios de la página 137: 4.55, 4.57, 4.59, 4.62, 4.63\n\nLibro: Introduction to Stochastic Processes with R. Robert P. Dobrow\n\nEjercicios de la página 70: 2.1, 2.2, 2.4"
+  },
+  {
+    "objectID": "cursos/modelos/01-lecturas.html#semanas-8-10",
+    "href": "cursos/modelos/01-lecturas.html#semanas-8-10",
+    "title": "Lecturas y ejercicios de repaso",
+    "section": "Semanas 8 – 10",
+    "text": "Semanas 8 – 10\nLibro: Introduction to Stochastic Processes with R. Robert P. Dobrow\n\nLecturas: 2.1, 2.2, 2.3, 2.4\n\nEjercicios de la página 70: 2.5 – 2.15"
+  },
+  {
+    "objectID": "cursos/modelos/index.html",
+    "href": "cursos/modelos/index.html",
+    "title": "Modelos Estocásticos",
+    "section": "",
+    "text": "Ordenar por\n       Por defecto\n         \n          Título\n        \n         \n          Fecha - Menos reciente\n        \n         \n          Fecha - Más reciente\n        \n         \n          Autor/a\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nLecturas y ejercicios de repaso\n\n\n\n\n\n\nEstocásticos\n\n\nEjercicios\n\n\nLecturas\n\n\nEvaluaciones\n\n\n\n\n\n\n\n\n\n23 jul 2025\n\n\nAder Villar\n\n\n\n\n\n\n\n\n\n\n\n\nModelos estocásticos 2025-20\n\n\nUniversidad Pontificia Bolivariana\n\n\n\nSílabo\n\n\n\n\n\n\n\n\n\nAder Villar\n\n\n\n\n\n\n\n\n\n\n\n\nModelos estocásticos 2026-10\n\n\nUniversidad Pontificia Bolivariana\n\n\n\nSílabo\n\n\n\n\n\n\n\n\n\n19 ene 2026\n\n\nAder Villar\n\n\n\n\n\n\nNo hay resultados\n\n Volver arriba"
+  },
+  {
+    "objectID": "cursos/pl/01-lecturas.html",
+    "href": "cursos/pl/01-lecturas.html",
+    "title": "Lecturas y ejercicios de repaso",
+    "section": "",
+    "text": "En esta sección podrán encontrar la lista de los ejercicios recomendados de la bibliografía para repasar los temas de las clases y prepararse para los exámenes."
+  },
+  {
+    "objectID": "cursos/pl/01-lecturas.html#semanas-1-y-2",
+    "href": "cursos/pl/01-lecturas.html#semanas-1-y-2",
+    "title": "Lecturas y ejercicios de repaso",
+    "section": "Semanas 1 y 2",
+    "text": "Semanas 1 y 2\nLibro: Investigación de Operaciones. Hamdy Taha. 9na edición\n\nConjunto de problemas 2.2A (página 20): 4, 7, 12, 13, 14, 16, 17, 18\nConjunto de problemas 2.2B (página 26): 4, 5, 6, 7"
+  },
+  {
+    "objectID": "cursos/pl/01-lecturas.html#semanas-3-y-4",
+    "href": "cursos/pl/01-lecturas.html#semanas-3-y-4",
+    "title": "Lecturas y ejercicios de repaso",
+    "section": "Semanas 3 y 4",
+    "text": "Semanas 3 y 4\nLibro: Investigación de Operaciones. Hamdy Taha. 9na edición\n\nConjunto de problemas 2.4A (página 37): 2, 3, 7\nConjunto de problemas 2.4B (página 45): 1, 3, 6, 8\nConjunto de problemas 2.4C (página 51): 1, 4, 6"
+  },
+  {
+    "objectID": "cursos/pl/01-lecturas.html#semanas-5-7",
+    "href": "cursos/pl/01-lecturas.html#semanas-5-7",
+    "title": "Lecturas y ejercicios de repaso",
+    "section": "Semanas 5 – 7",
+    "text": "Semanas 5 – 7\nLibro: Investigación de Operaciones. Hamdy Taha. 9na edición\n\nConjunto de problemas 2.4D (página 54): 1, 2\nConjunto de problemas 2.4E (página 60): 1, 3, 4\nConjunto de problemas 2.4F (página 67): 3, 11\n\nLibro: Introducción a la Investigación de Operaciones. Frederick Hillier & Gerald Lieberman. 9na edicion\n\nProblemas capítulo 3 (página 70): 3.4-9, 3.4-10, 3.4-11, 3.4-14, 3.4-15"
   },
   {
     "objectID": "cursos/simulacion/00-silabo.html",
     "href": "cursos/simulacion/00-silabo.html",
     "title": "Simulación 2025-20",
     "section": "",
-    "text": "El curso de Simulación presenta los conceptos y métodos necesarios para el estudio de sistemas complejos en donde los métodos exactos no funcionan satisfactoriamente. La simulación es útil para abordar situaciones en las que se encuentran problemas dinámicos y de naturaleza estocástica. El objetivo de la simulación es imitar el funcionamiento de un sistema para estudiarlo en su estado actual o sobre estados hipotéticos de modificaciones de las condiciones actuales.\n\n\n\n\nIdentificar y formular problemas de ingeniería mediante estudios de simulación.\nAnalizar y resolver problemas de simulación de mediana y gran complejidad a través de software especializado y hojas de cálculo (Excel, R, Python, SIMIO, Flexsim).\nComunicar de manera clara los resultados de un modelo de simulación.\n\n\n\n\nEl contenido del curso se trabajará semanalmente en 2 sesiones presenciales de 1 hora con 40 minutos cada una. Al ser un curso de 3 créditos, se espera que el estudiante dedique entre 5 y 6 horas de trabajo independiente semanal, adicional a las horas de encuentro directo con el docente.\nEl curso se desarrollará de manera presencial en salas de informática para facilitar el acceso al software necesario. Se espera que el estudiante tenga dominio básico de Excel en cuanto al manejo de tablas, fórmulas y macros; así como también un dominio moderado de lenguajes de programación como R y Python. El programa de simulación a usar será SIMIO (o Flexsim), que está disponible en la sala de informática y se empezará a usar aproximadamente desde la mitad del curso.\nDurante las clases se irán desarrollando conceptos, teoría y ejercicios de profundización; y se recomienda la toma de apuntes para posterior estudio y repaso. Se recomendarán ejercicios de la bibliografía sugerida para fomentar la práctica independiente y facilitar las evaluaciones del curso.\nSe realizarán exámenes cortos1 periódicamente para evaluar la evolución de cada estudiante en la asimilación de los temas.\n1 No es necesario que estas evaluaciones rápidas o quices sean programadas o avisadas, pueden realizarse en cualquier clase y en cualquier momento de la clase. Si \\(p_k\\) es la probabilidad de haya quiz en la k-ésima clase, entonces \\(p_k&gt;0 \\ \\forall k\\)\n\n\n\n\n\n\n\nSemana\nFecha\nTemas\n\n\n\n\n1\njulio 14\nConceptos básicos. Generación de números aleatorios\n\n\n2\njulio 21\nPropiedades y pruebas estadísticas sobre los números aleatorios\n\n\n3\njulio 28\nGeneración de variables aleatorias. Transformada inversa I. Seguimiento 1\n\n\n4\nagosto 04\nGeneración de variables aleatorias. Transformada inversa II\n\n\n5\nagosto 11\nGeneración de variables aleatorias. Convolución, Aceptación y Rechazo, Transformada directa. Seguimiento 2\n\n\n6\nagosto 18\nSimulación Montecarlo y aplicaciones I\n\n\n7\nagosto 25\nSimulación Montecarlo y aplicaciones II\n\n\n8\nseptiembre 01\nSimulación en lenguajes de programación I. Examen 1\n\n\n9\nseptiembre 08\nSimulación en lenguajes de programación II\n\n\n10\nseptiembre 15\nConstrucción de modelos de simulación en SIMIO (o Flexsim). Seguimiento 3\n\n\n11\nseptiembre 22\nAnálisis de entrada\n\n\n12\nseptiembre 29\nVerificación y validación de modelos de simulación. Examen 2\n\n\n13\noctubre 06\nAnálisis de salida\n\n\n14\noctubre 13\nAplicación a modelos de producción y logística I\n\n\n15\noctubre 20\nAplicación a modelos de produccion y logística II. Seguimiento 4\n\n\n16\noctubre 27\nAplicación a modelos de produccion y logística III\n\n\n\n\n\n\n\n\n\n\nLa nota final se calculará como el promedio ponderado de las notas de seguimiento y los exámenes\n\n\n\n\n\n\nNota\nPeso\n\n\n\n\nSeguimiento 1\n(10%)\n\n\nSeguimiento 2\n(10%)\n\n\nExamen 1\n(20%)\n\n\nSeguimiento 3\n(10%)\n\n\nExamen 2\n(20%)\n\n\nSeguimiento 4\n(15%)\n\n\nExamen o proyecto final\n(15%)\n\n\n\n\n\n\n\n\n\n\n\n\nEs necesario que el estudiante participe como mínimo en el 80% del desarrollo del curso (clases). La inasistencia será causal de pérdida del curso con una calificación de cero punto cero cero (0.00), sin posibilidad de cancelación del curso, si la inasistencia fue reportada previamente al sistema de información.\nLa inasistencia por razones de enfermedad o fuerza mayor deberá justificarse dentro de los tres (3) días hábiles siguientes al hecho. Cuando el estudiante requiera ausentarse para eventos académicos, científicos, culturales y deportivos, en representación de la Universidad, deberá reportar este hecho al profesor, como mínimo con ocho (8) días hábiles de anticipación.\nEn cualquiera de las clases se pueden hacer actividades evaluativas de seguimiento (quices, talleres cortos, ejercicios en clase), con o sin programación previa.\nLa no presentación de una evaluación en la fecha y hora fijada por el profesor conlleva una nota de 0.00 (cero punto cero cero).\nCuando, por causas justificadas, no se puedan presentar las evaluaciones parciales o finales en las fechas establecidas por el docente, se podrá solicitar pruebas supletorias ante el director de la Facultad. Estas pruebas tendrán un costo y deberán ser solicitadas dentro de los tres (3) días hábiles siguientes a la programación de la prueba no presentada por el estudiante y, si es autorizada, deberá ser presentada dentro de los 10 días hábiles siguientes a su autorización.\nLos resultados de las evaluaciones deberán ser informados al estudiante, a más tardar, dentro de las dos (2) semanas siguientes a su presentación.\n\n\n\n\n\n\n[1] J. Banks, J. S. Carson II, D. M. Nicol, y B. L. Nelson, Discrete-Event system simulation. Pearson New International Edition, 2014.\n\n\n[2] E. G. Dunna, H. G. Reyes, y L. E. C. Barrón, Simulación y análisis de sistemas con ProModel, 2.ª ed. Pearson Educación, 2013.\n\n\n[3] J. S. Smith y D. T. Sturrock, Simio & simulation: Modeling, analysis, applications. McGraw-Hill Learning Solutions, 2021. Disponible en: https://textbook.simio.com/SASMAA/index.html\n\n\n[4] S. M. Ross, Simulation, 6.ª ed. Academic Press, 2022."
+    "text": "El curso de Simulación presenta los conceptos y métodos necesarios para el estudio de sistemas complejos en donde los métodos exactos no funcionan satisfactoriamente. La simulación es útil para abordar situaciones en las que se encuentran problemas dinámicos y de naturaleza estocástica. El objetivo de la simulación es imitar el funcionamiento de un sistema para estudiarlo en su estado actual o sobre estados hipotéticos de modificaciones de las condiciones actuales.\n\n\n\n\nIdentificar y formular problemas de ingeniería mediante estudios de simulación.\nAnalizar y resolver problemas de simulación de mediana y gran complejidad a través de software especializado y hojas de cálculo (Excel, R, Python, SIMIO, Flexsim).\nComunicar de manera clara los resultados de un modelo de simulación.\n\n\n\n\nEl contenido del curso se trabajará semanalmente en 2 sesiones presenciales de 1 hora con 40 minutos cada una. Al ser un curso de 3 créditos, se espera que el estudiante dedique entre 5 y 6 horas de trabajo independiente semanal, adicional a las horas de encuentro directo con el docente.\nEl curso se desarrollará de manera presencial en salas de informática para facilitar el acceso al software necesario. Se espera que el estudiante tenga dominio básico de Excel en cuanto al manejo de tablas, fórmulas y macros; así como también un dominio moderado de lenguajes de programación como R y Python. El programa de simulación a usar será SIMIO (o Flexsim), que está disponible en la sala de informática y se empezará a usar aproximadamente desde la mitad del curso.\nDurante las clases se irán desarrollando conceptos, teoría y ejercicios de profundización; y se recomienda la toma de apuntes para posterior estudio y repaso. Se recomendarán ejercicios de la bibliografía sugerida para fomentar la práctica independiente y facilitar las evaluaciones del curso.\nSe realizarán exámenes cortos1 periódicamente para evaluar la evolución de cada estudiante en la asimilación de los temas.\n1 No es necesario que estas evaluaciones rápidas o quices sean programadas o avisadas, pueden realizarse en cualquier clase y en cualquier momento de la clase. Si \\(p_k\\) es la probabilidad de haya quiz en la k-ésima clase, entonces \\(p_k&gt;0 \\ \\forall k\\)\n\n\n\n\n\n\n\nSemana\nFecha\nTemas\n\n\n\n\n1\njulio 14\nConceptos básicos. Generación de números aleatorios\n\n\n2\njulio 21\nPropiedades y pruebas estadísticas sobre los números aleatorios\n\n\n3\njulio 28\nGeneración de variables aleatorias. Transformada inversa I. Seguimiento 1\n\n\n4\nagosto 04\nGeneración de variables aleatorias. Transformada inversa II\n\n\n5\nagosto 11\nGeneración de variables aleatorias. Convolución, Aceptación y Rechazo, Transformada directa. Seguimiento 2\n\n\n6\nagosto 18\nSimulación Montecarlo y aplicaciones I\n\n\n7\nagosto 25\nSimulación Montecarlo y aplicaciones II\n\n\n8\nseptiembre 01\nSimulación en lenguajes de programación I. Examen 1\n\n\n9\nseptiembre 08\nSimulación en lenguajes de programación II\n\n\n10\nseptiembre 15\nConstrucción de modelos de simulación en SIMIO (o Flexsim). Seguimiento 3\n\n\n11\nseptiembre 22\nAnálisis de entrada\n\n\n12\nseptiembre 29\nVerificación y validación de modelos de simulación. Examen 2\n\n\n13\noctubre 06\nAnálisis de salida\n\n\n14\noctubre 13\nAplicación a modelos de producción y logística I\n\n\n15\noctubre 20\nAplicación a modelos de produccion y logística II. Seguimiento 4\n\n\n16\noctubre 27\nAplicación a modelos de produccion y logística III\n\n\n\n\n\n\n\n\n\n\nLa nota final se calculará como el promedio ponderado de las notas de seguimiento y los exámenes\n\n\n\n\n\n\nNota\nPeso\n\n\n\n\nSeguimiento 1\n(10%)\n\n\nSeguimiento 2\n(10%)\n\n\nExamen 1\n(20%)\n\n\nSeguimiento 3\n(10%)\n\n\nExamen 2\n(20%)\n\n\nSeguimiento 4\n(15%)\n\n\nExamen o proyecto final\n(15%)\n\n\n\n\n\n\n\n\n\n\n\n\nEs necesario que el estudiante participe como mínimo en el 80% del desarrollo del curso (clases). La inasistencia será causal de pérdida del curso con una calificación de cero punto cero cero (0.00), sin posibilidad de cancelación del curso, si la inasistencia fue reportada previamente al sistema de información.\nLa inasistencia por razones de enfermedad o fuerza mayor deberá justificarse dentro de los tres (3) días hábiles siguientes al hecho. Cuando el estudiante requiera ausentarse para eventos académicos, científicos, culturales y deportivos, en representación de la Universidad, deberá reportar este hecho al profesor, como mínimo con ocho (8) días hábiles de anticipación.\nEn cualquiera de las clases se pueden hacer actividades evaluativas de seguimiento (quices, talleres cortos, ejercicios en clase), con o sin programación previa.\nLa no presentación de una evaluación en la fecha y hora fijada por el profesor conlleva una nota de 0.00 (cero punto cero cero).\nCuando, por causas justificadas, no se puedan presentar las evaluaciones parciales o finales en las fechas establecidas por el docente, se podrá solicitar pruebas supletorias ante el director de la Facultad. Estas pruebas tendrán un costo y deberán ser solicitadas dentro de los tres (3) días hábiles siguientes a la programación de la prueba no presentada por el estudiante y, si es autorizada, deberá ser presentada dentro de los 10 días hábiles siguientes a su autorización.\nLos resultados de las evaluaciones deberán ser informados al estudiante, a más tardar, dentro de las dos (2) semanas siguientes a su presentación.\n\n\n\n\n\n\n[1] J. Banks, J. S. Carson II, D. M. Nicol, y B. L. Nelson, Discrete-Event system simulation, 5.ª ed. Pearson New International Edition, 2014.\n\n\n[2] E. G. Dunna, H. G. Reyes, y L. E. C. Barrón, Simulación y análisis de sistemas con ProModel, 2.ª ed. Pearson Educación, 2013.\n\n\n[3] J. S. Smith y D. T. Sturrock, Simio & simulation: Modeling, analysis, applications. McGraw-Hill Learning Solutions, 2021. Disponible en: https://textbook.simio.com/SASMAA/index.html\n\n\n[4] S. M. Ross, Simulation, 6.ª ed. Academic Press, 2022."
   },
   {
     "objectID": "cursos/simulacion/00-silabo.html#descripción",
@@ -60,140 +312,7 @@
     "href": "cursos/simulacion/00-silabo.html#bibliografía",
     "title": "Simulación 2025-20",
     "section": "",
-    "text": "[1] J. Banks, J. S. Carson II, D. M. Nicol, y B. L. Nelson, Discrete-Event system simulation. Pearson New International Edition, 2014.\n\n\n[2] E. G. Dunna, H. G. Reyes, y L. E. C. Barrón, Simulación y análisis de sistemas con ProModel, 2.ª ed. Pearson Educación, 2013.\n\n\n[3] J. S. Smith y D. T. Sturrock, Simio & simulation: Modeling, analysis, applications. McGraw-Hill Learning Solutions, 2021. Disponible en: https://textbook.simio.com/SASMAA/index.html\n\n\n[4] S. M. Ross, Simulation, 6.ª ed. Academic Press, 2022."
-  },
-  {
-    "objectID": "cursos/pl/01-lecturas.html",
-    "href": "cursos/pl/01-lecturas.html",
-    "title": "Lecturas y ejercicios de repaso",
-    "section": "",
-    "text": "En esta sección podrán encontrar la lista de los ejercicios recomendados de la bibliografía para repasar los temas de las clases y prepararse para los exámenes."
-  },
-  {
-    "objectID": "cursos/pl/01-lecturas.html#semanas-1-y-2",
-    "href": "cursos/pl/01-lecturas.html#semanas-1-y-2",
-    "title": "Lecturas y ejercicios de repaso",
-    "section": "Semanas 1 y 2",
-    "text": "Semanas 1 y 2\nLibro: Investigación de Operaciones. Hamdy Taha. 9na edición\n\nConjunto de problemas 2.2A (página 20): 4, 7, 12, 13, 14, 16, 17, 18\nConjunto de problemas 2.2B (página 26): 4, 5, 6, 7"
-  },
-  {
-    "objectID": "cursos/modelos/index.html",
-    "href": "cursos/modelos/index.html",
-    "title": "Modelos Estocásticos",
-    "section": "",
-    "text": "Ordenar por\n       Por defecto\n         \n          Título\n        \n         \n          Fecha - Menos reciente\n        \n         \n          Fecha - Más reciente\n        \n         \n          Autor/a\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nLecturas y ejercicios de repaso\n\n\n\n\n\n\nEstocásticos\n\n\nEjercicios\n\n\nLecturas\n\n\nEvaluaciones\n\n\n\n\n\n\n\n\n\n23 jul 2025\n\n\nAder Villar\n\n\n\n\n\n\n\n\n\n\n\n\nModelos estocásticos 2025-20\n\n\nUniversidad Pontificia Bolivariana\n\n\n\nSílabo\n\n\n\n\n\n\n\n\n\nAder Villar\n\n\n\n\n\n\nNo hay resultados\n\n Volver arriba"
-  },
-  {
-    "objectID": "cursos/modelos/00-silabo.html",
-    "href": "cursos/modelos/00-silabo.html",
-    "title": "Modelos estocásticos 2025-20",
-    "section": "",
-    "text": "El contenido del curso se trabajará semanalmente en 2 sesiones presenciales de 1 hora con 40 minutos cada una. Al ser un curso de 3 créditos, se espera que el estudiante dedique entre 5 y 6 horas de trabajo independiente semanal, adicional a las horas de encuentro directo con el docente.\nDurante las clases se irán desarrollando conceptos, teoría y ejercicios de profundización; y se recomienda la toma de apuntes para posterior estudio y repaso. Se recomendarán ejercicios de la bibliografía para fomentar la práctica independiente y facilitar las evaluaciones del curso.\nSe realizarán exámenes cortos1 periódicamente para evaluar la evolución de cada estudiante en la asimilación de los temas.\n1 No es necesario que estas evaluaciones rápidas o quices sean programadas o avisadas, pueden realizarse en cualquier clase y en cualquier momento de la clase. Si \\(p_k\\) es la probabilidad de haya quiz en la k-ésima clase, entonces \\(p_k&gt;0 \\ \\forall k\\)Se espera que los estudiantes dominen temas básicos de su primer curso de probabilidad y estadística. Las primeras 2 semanas se dedicarán a un repaso rápido de temas tales como: probabilidad, probabilidad condicional, variables aleatorias, distribuciones de probabilidad y esperanza matemática. Esto, sin embargo, no pretende ser un estudio profundo de la materia y no reemplaza el conocimiento previo que se espera de los estudiantes.\nSon importantes también los conceptos aprendidos en álgebra lineal y los cursos de cálculo para asimilar con mayor facilidad los temas de Modelos estocásticos.\nEl curso es de naturaleza teórica, por lo que se hace énfasis en la claridad y precisión de los conceptos matemáticos utilizados en las aplicaciones. Las aplicaciones mostradas durante el curso estarán enfocadas en los temas más relevantes para la Ingeniería Industrial, tales como la teoría de colas.\n\n\n\n\n\n\n\n\nSemana\nFecha\nTemas\n\n\n\n\n1\njulio 14\nEspacio muestral, eventos, probabilidad, probabilidad condicional, teorema de Bayes\n\n\n2\njulio 21\nVariables aleatorias, distribuciones de probabilidad, esperanza matemática\n\n\n3\njulio 28\nDistribuciones conjuntas, distribuciones marginales y condicionales. Seguimiento 1\n\n\n4\nagosto 04\nCadenas de Markov I\n\n\n5\nagosto 11\nCadenas de Markov II. Seguimiento 2\n\n\n6\nagosto 18\nCadenas de Markov III\n\n\n7\nagosto 25\nCadenas de Markov IV\n\n\n8\nseptiembre 01\nDistribución Exponencial y proceso de Poisson I. Examen 1\n\n\n9\nseptiembre 08\nDistribución Exponencial y proceso de Poisson II\n\n\n10\nseptiembre 15\nDistribución Exponencial y proceso de Poisson III. Seguimiento 3\n\n\n11\nseptiembre 22\nTeoría de colas I\n\n\n12\nseptiembre 29\nTeoría de colas II. Examen 2\n\n\n13\noctubre 06\nTeoría de colas III\n\n\n14\noctubre 13\nTeoría de colas IV. Seguimiento 4\n\n\n15\noctubre 20\nCadenas de Markov de tiempo continuo I\n\n\n16\noctubre 27\nCadenas de Markov de tiempo continuo II\n\n\n\n\n\n\n\n\n\n\nLa nota final se calculará como el promedio ponderado de las notas de seguimiento y los exámenes\n\n\n\n\n\n\nNota\nPeso\n\n\n\n\nSeguimiento 1\n(10%)\n\n\nSeguimiento 2\n(10%)\n\n\nExamen 1\n(20%)\n\n\nSeguimiento 3\n(10%)\n\n\nExamen 2\n(20%)\n\n\nSeguimiento 4\n(15%)\n\n\nExamen o proyecto final\n(15%)\n\n\n\n\n\n\n\n\n\n\n\n\nEs necesario que el estudiante participe como mínimo en el 80% del desarrollo del curso (clases). La inasistencia será causal de pérdida del curso con una calificación de cero punto cero cero (0.00), sin posibilidad de cancelación del curso, si la inasistencia fue reportada previamente al sistema de información.\nLa inasistencia por razones de enfermedad o fuerza mayor deberá justificarse dentro de los tres (3) días hábiles siguientes al hecho. Cuando el estudiante requiera ausentarse para eventos académicos, científicos, culturales y deportivos, en representación de la Universidad, deberá reportar este hecho al profesor, como mínimo con ocho (8) días hábiles de anticipación.\nEn cualquiera de las clases se pueden hacer actividades evaluativas de seguimiento (quices, talleres cortos, ejercicios en clase), con o sin programación previa.\nLa no presentación de una evaluación en la fecha y hora fijada por el profesor conlleva una nota de 0.00 (cero punto cero cero).\nCuando, por causas justificadas, no se puedan presentar las evaluaciones parciales o finales en las fechas establecidas por el docente, se podrá solicitar pruebas supletorias ante el director de la Facultad. Estas pruebas tendrán un costo y deberán ser solicitadas dentro de los tres (3) días hábiles siguientes a la programación de la prueba no presentada por el estudiante y, si es autorizada, deberá ser presentada dentro de los 10 días hábiles siguientes a su autorización.\nLos resultados de las evaluaciones deberán ser informados al estudiante, a más tardar, dentro de las dos (2) semanas siguientes a su presentación."
-  },
-  {
-    "objectID": "cursos/modelos/00-silabo.html#metodología-y-conocimientos-previos",
-    "href": "cursos/modelos/00-silabo.html#metodología-y-conocimientos-previos",
-    "title": "Modelos estocásticos 2025-20",
-    "section": "",
-    "text": "El contenido del curso se trabajará semanalmente en 2 sesiones presenciales de 1 hora con 40 minutos cada una. Al ser un curso de 3 créditos, se espera que el estudiante dedique entre 5 y 6 horas de trabajo independiente semanal, adicional a las horas de encuentro directo con el docente.\nDurante las clases se irán desarrollando conceptos, teoría y ejercicios de profundización; y se recomienda la toma de apuntes para posterior estudio y repaso. Se recomendarán ejercicios de la bibliografía para fomentar la práctica independiente y facilitar las evaluaciones del curso.\nSe realizarán exámenes cortos1 periódicamente para evaluar la evolución de cada estudiante en la asimilación de los temas.\n1 No es necesario que estas evaluaciones rápidas o quices sean programadas o avisadas, pueden realizarse en cualquier clase y en cualquier momento de la clase. Si \\(p_k\\) es la probabilidad de haya quiz en la k-ésima clase, entonces \\(p_k&gt;0 \\ \\forall k\\)Se espera que los estudiantes dominen temas básicos de su primer curso de probabilidad y estadística. Las primeras 2 semanas se dedicarán a un repaso rápido de temas tales como: probabilidad, probabilidad condicional, variables aleatorias, distribuciones de probabilidad y esperanza matemática. Esto, sin embargo, no pretende ser un estudio profundo de la materia y no reemplaza el conocimiento previo que se espera de los estudiantes.\nSon importantes también los conceptos aprendidos en álgebra lineal y los cursos de cálculo para asimilar con mayor facilidad los temas de Modelos estocásticos.\nEl curso es de naturaleza teórica, por lo que se hace énfasis en la claridad y precisión de los conceptos matemáticos utilizados en las aplicaciones. Las aplicaciones mostradas durante el curso estarán enfocadas en los temas más relevantes para la Ingeniería Industrial, tales como la teoría de colas."
-  },
-  {
-    "objectID": "cursos/modelos/00-silabo.html#plan-de-trabajo-por-semana",
-    "href": "cursos/modelos/00-silabo.html#plan-de-trabajo-por-semana",
-    "title": "Modelos estocásticos 2025-20",
-    "section": "",
-    "text": "Semana\nFecha\nTemas\n\n\n\n\n1\njulio 14\nEspacio muestral, eventos, probabilidad, probabilidad condicional, teorema de Bayes\n\n\n2\njulio 21\nVariables aleatorias, distribuciones de probabilidad, esperanza matemática\n\n\n3\njulio 28\nDistribuciones conjuntas, distribuciones marginales y condicionales. Seguimiento 1\n\n\n4\nagosto 04\nCadenas de Markov I\n\n\n5\nagosto 11\nCadenas de Markov II. Seguimiento 2\n\n\n6\nagosto 18\nCadenas de Markov III\n\n\n7\nagosto 25\nCadenas de Markov IV\n\n\n8\nseptiembre 01\nDistribución Exponencial y proceso de Poisson I. Examen 1\n\n\n9\nseptiembre 08\nDistribución Exponencial y proceso de Poisson II\n\n\n10\nseptiembre 15\nDistribución Exponencial y proceso de Poisson III. Seguimiento 3\n\n\n11\nseptiembre 22\nTeoría de colas I\n\n\n12\nseptiembre 29\nTeoría de colas II. Examen 2\n\n\n13\noctubre 06\nTeoría de colas III\n\n\n14\noctubre 13\nTeoría de colas IV. Seguimiento 4\n\n\n15\noctubre 20\nCadenas de Markov de tiempo continuo I\n\n\n16\noctubre 27\nCadenas de Markov de tiempo continuo II"
-  },
-  {
-    "objectID": "cursos/modelos/00-silabo.html#evaluación",
-    "href": "cursos/modelos/00-silabo.html#evaluación",
-    "title": "Modelos estocásticos 2025-20",
-    "section": "",
-    "text": "La nota final se calculará como el promedio ponderado de las notas de seguimiento y los exámenes\n\n\n\n\n\n\nNota\nPeso\n\n\n\n\nSeguimiento 1\n(10%)\n\n\nSeguimiento 2\n(10%)\n\n\nExamen 1\n(20%)\n\n\nSeguimiento 3\n(10%)\n\n\nExamen 2\n(20%)\n\n\nSeguimiento 4\n(15%)\n\n\nExamen o proyecto final\n(15%)"
-  },
-  {
-    "objectID": "cursos/modelos/00-silabo.html#sobre-el-reglamento",
-    "href": "cursos/modelos/00-silabo.html#sobre-el-reglamento",
-    "title": "Modelos estocásticos 2025-20",
-    "section": "",
-    "text": "Es necesario que el estudiante participe como mínimo en el 80% del desarrollo del curso (clases). La inasistencia será causal de pérdida del curso con una calificación de cero punto cero cero (0.00), sin posibilidad de cancelación del curso, si la inasistencia fue reportada previamente al sistema de información.\nLa inasistencia por razones de enfermedad o fuerza mayor deberá justificarse dentro de los tres (3) días hábiles siguientes al hecho. Cuando el estudiante requiera ausentarse para eventos académicos, científicos, culturales y deportivos, en representación de la Universidad, deberá reportar este hecho al profesor, como mínimo con ocho (8) días hábiles de anticipación.\nEn cualquiera de las clases se pueden hacer actividades evaluativas de seguimiento (quices, talleres cortos, ejercicios en clase), con o sin programación previa.\nLa no presentación de una evaluación en la fecha y hora fijada por el profesor conlleva una nota de 0.00 (cero punto cero cero).\nCuando, por causas justificadas, no se puedan presentar las evaluaciones parciales o finales en las fechas establecidas por el docente, se podrá solicitar pruebas supletorias ante el director de la Facultad. Estas pruebas tendrán un costo y deberán ser solicitadas dentro de los tres (3) días hábiles siguientes a la programación de la prueba no presentada por el estudiante y, si es autorizada, deberá ser presentada dentro de los 10 días hábiles siguientes a su autorización.\nLos resultados de las evaluaciones deberán ser informados al estudiante, a más tardar, dentro de las dos (2) semanas siguientes a su presentación."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n\n\n Volver arriba"
-  },
-  {
-    "objectID": "cursos/modelos/01-intro.html",
-    "href": "cursos/modelos/01-intro.html",
-    "title": "Ader Villar",
-    "section": "",
-    "text": "Volver arriba"
-  },
-  {
-    "objectID": "cursos/pl/00-silabo.html",
-    "href": "cursos/pl/00-silabo.html",
-    "title": "Programación Lineal 2025-20",
-    "section": "",
-    "text": "En el curso de Programación Lineal se presentan técnicas de modelación y métodos de solución para problemas de optimización en los que el dominio de las variables es continuo y tanto la función objetivo como las restricciones son ecuaciones lineales de dichas variables. Este tipo de modelos matemáticos encuentran un número variado de aplicaciones en ciencias e ingenierías, permitiendo expresar situaciones concretas en términos de modelos matemáticos fáciles de resolver y de escalar. A pesar de su fuerte limitación de linealidad, la programación lineal es bastante versátil y se convierte en una herramienta fundamental para la optimización de procesos y aplicaciones a la Ingeniería Industrial.\nAdemás de trabajar los aspectos teóricos de la materia, se procura también el enfoque práctico de los temas, al tratar con problemas contextualizados y resolverlos usando hojas de cálculo y lenguajes de programación."
-  },
-  {
-    "objectID": "cursos/pl/00-silabo.html#descripción",
-    "href": "cursos/pl/00-silabo.html#descripción",
-    "title": "Programación Lineal 2025-20",
-    "section": "",
-    "text": "En el curso de Programación Lineal se presentan técnicas de modelación y métodos de solución para problemas de optimización en los que el dominio de las variables es continuo y tanto la función objetivo como las restricciones son ecuaciones lineales de dichas variables. Este tipo de modelos matemáticos encuentran un número variado de aplicaciones en ciencias e ingenierías, permitiendo expresar situaciones concretas en términos de modelos matemáticos fáciles de resolver y de escalar. A pesar de su fuerte limitación de linealidad, la programación lineal es bastante versátil y se convierte en una herramienta fundamental para la optimización de procesos y aplicaciones a la Ingeniería Industrial.\nAdemás de trabajar los aspectos teóricos de la materia, se procura también el enfoque práctico de los temas, al tratar con problemas contextualizados y resolverlos usando hojas de cálculo y lenguajes de programación."
-  },
-  {
-    "objectID": "cursos/pl/00-silabo.html#objetivos",
-    "href": "cursos/pl/00-silabo.html#objetivos",
-    "title": "Programación Lineal 2025-20",
-    "section": "Objetivos",
-    "text": "Objetivos\n\nIdentificar adecuadamente problemas de optimización que puedan ser tratados con métodos de Programación Lineal.\nComprender y aplicar los métodos de solución de problemas de programación lineal\nImplementar algoritmos en lenguajes de programación y lenguajes algebraicos que permitan resolver problemas que incluyan decenas o cientos de variables\nPlanear, ejecutar y comunicar de manera clara, proyectos de ingeniería que involucren métodos de programación lineal para la toma de decisiones"
-  },
-  {
-    "objectID": "cursos/pl/00-silabo.html#metodología",
-    "href": "cursos/pl/00-silabo.html#metodología",
-    "title": "Programación Lineal 2025-20",
-    "section": "Metodología",
-    "text": "Metodología\nEl contenido del curso se trabajará semanalmente en 2 sesiones presenciales de 1 hora con 40 minutos cada una. Al ser un curso de 3 créditos, se espera que el estudiante dedique entre 5 y 6 horas de trabajo independiente semanal, adicional a las horas de encuentro directo con el docente.\nDurante las clases se irán desarrollando conceptos, teoría y ejercicios de profundización; y se recomienda la toma de apuntes para posterior estudio y repaso. Se recomendarán ejercicios de la bibliografía sugerida para fomentar la práctica independiente y facilitar las evaluaciones del curso.\nSe realizarán exámenes cortos1 periódicamente para evaluar la evolución de cada estudiante en la asimilación de los temas.\n1 No es necesario que estas evaluaciones rápidas o quices sean programadas o avisadas, pueden realizarse en cualquier clase y en cualquier momento de la clase. Si \\(p_k\\) es la probabilidad de haya quiz en la k-ésima clase, entonces \\(p_k&gt;0 \\ \\forall k\\)"
-  },
-  {
-    "objectID": "cursos/pl/00-silabo.html#plan-de-trabajo-por-semana",
-    "href": "cursos/pl/00-silabo.html#plan-de-trabajo-por-semana",
-    "title": "Programación Lineal 2025-20",
-    "section": "Plan de trabajo por semana",
-    "text": "Plan de trabajo por semana\n\n\nWarning: package 'kableExtra' was built under R version 4.5.1\n\n\n\n\n\nSemana\nFecha\nTemas\n\n\n\n\n1\njulio 14\nMotivación, introducción a la IO y modelación matemática. Escritura formal de modelos\n\n\n2\njulio 21\nFormulación I\n\n\n3\njulio 28\nFormulación II. Seguimiento 1\n\n\n4\nagosto 04\nFormulación III\n\n\n5\nagosto 11\nFormulación IV. Seguimiento 2\n\n\n6\nagosto 18\nFormulación V\n\n\n7\nagosto 25\nPropiedades geométricas\n\n\n8\nseptiembre 01\nConjuntos y funciones convexas. Examen 1\n\n\n9\nseptiembre 08\nSistemas de ecuaciones lineales. Poliedros, puntos extremos y teorema de representación\n\n\n10\nseptiembre 15\nMétodo algebraico. Seguimiento 3\n\n\n11\nseptiembre 22\nÁlgebra del método Simplex\n\n\n12\nseptiembre 29\nFormato de tabla para el método Simplex. Examen 2\n\n\n13\noctubre 06\nSolución inicial factible. Soluciones no acotadas, infactibilidad, ciclado\n\n\n14\noctubre 13\nAnálisis de sensibilidad. Seguimiento 4\n\n\n15\noctubre 20\nProblema dual\n\n\n16\noctubre 27\nTemas adicionales"
-  },
-  {
-    "objectID": "cursos/pl/00-silabo.html#evaluación",
-    "href": "cursos/pl/00-silabo.html#evaluación",
-    "title": "Programación Lineal 2025-20",
-    "section": "Evaluación",
-    "text": "Evaluación\nLa nota final se calculará como el promedio ponderado de las notas de seguimiento y los exámenes\n\n\n\n\n\n\nNota\nPeso\n\n\n\n\nSeguimiento 1\n(10%)\n\n\nSeguimiento 2\n(10%)\n\n\nExamen 1\n(20%)\n\n\nSeguimiento 3\n(10%)\n\n\nExamen 2\n(20%)\n\n\nSeguimiento 4\n(15%)\n\n\nExamen o proyecto final\n(15%)"
-  },
-  {
-    "objectID": "cursos/pl/00-silabo.html#sobre-el-reglamento",
-    "href": "cursos/pl/00-silabo.html#sobre-el-reglamento",
-    "title": "Programación Lineal 2025-20",
-    "section": "Sobre el Reglamento",
-    "text": "Sobre el Reglamento\n\nEs necesario que el estudiante participe como mínimo en el 80% del desarrollo del curso (clases). La inasistencia será causal de pérdida del curso con una calificación de cero punto cero cero (0.00), sin posibilidad de cancelación del curso, si la inasistencia fue reportada previamente al sistema de información.\nLa inasistencia por razones de enfermedad o fuerza mayor deberá justificarse dentro de los tres (3) días hábiles siguientes al hecho. Cuando el estudiante requiera ausentarse para eventos académicos, científicos, culturales y deportivos, en representación de la Universidad, deberá reportar este hecho al profesor, como mínimo con ocho (8) días hábiles de anticipación.\nEn cualquiera de las clases se pueden hacer actividades evaluativas de seguimiento (quices, talleres cortos, ejercicios en clase), con o sin programación previa.\nLa no presentación de una evaluación en la fecha y hora fijada por el profesor conlleva una nota de 0.00 (cero punto cero cero).\nCuando, por causas justificadas, no se puedan presentar las evaluaciones parciales o finales en las fechas establecidas por el docente, se podrán solicitar pruebas supletorias ante el director de la Facultad. Estas pruebas tendrán un costo y deberán ser solicitadas dentro de los tres (3) días hábiles siguientes a la programación de la prueba no presentada por el estudiante y, si es autorizada, deberá ser presentada dentro de los 10 días hábiles siguientes a su autorización.\nLos resultados de las evaluaciones deberán ser informados al estudiante, a más tardar, dentro de las dos (2) semanas siguientes a su presentación."
-  },
-  {
-    "objectID": "cursos/pl/00-silabo.html#bibliografía",
-    "href": "cursos/pl/00-silabo.html#bibliografía",
-    "title": "Programación Lineal 2025-20",
-    "section": "Bibliografía",
-    "text": "Bibliografía\n\n\n[1] H. A. Taha, Operations Research: An Introduction, 10th ed. Pearson, 2017.\n\n\n[2] F. S. Hillier y G. J. Lieberman, Introduction to Operations Research, 10th ed. McGrawHill, 2015.\n\n\n[3] M. S. Bazaraa, J. J. Jarvis, y H. D. Sherali, Linear Programming and Network Flows. Wiley-Interscience, 2011.\n\n\n[4] H. P. Williams, Model building in Mathematical Programming, 5th ed. John Wiley & Sons, 2013.\n\n\n[5] M. Arenales, V. Armentano, R. Morabito, y H. Yanasse, Pesquisa Operacional para cursos de Engenharia. elsevier, 2007.\n\n\n[6] R. J. Vanderbei, «Linear Programming: Foundations and Extensions». Springer, 2020."
-  },
-  {
-    "objectID": "cursos/pl/index.html",
-    "href": "cursos/pl/index.html",
-    "title": "Programación Lineal",
-    "section": "",
-    "text": "Ordenar por\n       Por defecto\n         \n          Título\n        \n         \n          Fecha - Menos reciente\n        \n         \n          Fecha - Más reciente\n        \n         \n          Autor/a\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nLecturas y ejercicios de repaso\n\n\n\n\n\n\nProgramación Lineal\n\n\nEjercicios\n\n\nLecturas\n\n\nEvaluaciones\n\n\n\n\n\n\n\n\n\n22 jul 2025\n\n\nAder Villar\n\n\n\n\n\n\n\n\n\n\n\n\nProgramación Lineal 2025-20\n\n\nUniversidad Pontificia Bolivariana\n\n\n\nSílabo\n\n\ncontenido\n\n\nplan de trabajo\n\n\n\n\n\n\n\n\n\n14 jul 2025\n\n\nAder Villar\n\n\n\n\n\n\nNo hay resultados\n\n Volver arriba"
+    "text": "[1] J. Banks, J. S. Carson II, D. M. Nicol, y B. L. Nelson, Discrete-Event system simulation, 5.ª ed. Pearson New International Edition, 2014.\n\n\n[2] E. G. Dunna, H. G. Reyes, y L. E. C. Barrón, Simulación y análisis de sistemas con ProModel, 2.ª ed. Pearson Educación, 2013.\n\n\n[3] J. S. Smith y D. T. Sturrock, Simio & simulation: Modeling, analysis, applications. McGraw-Hill Learning Solutions, 2021. Disponible en: https://textbook.simio.com/SASMAA/index.html\n\n\n[4] S. M. Ross, Simulation, 6.ª ed. Academic Press, 2022."
   },
   {
     "objectID": "cursos/simulacion/index.html",
@@ -201,82 +320,5 @@
     "title": "Simulación",
     "section": "",
     "text": "Ordenar por\n       Por defecto\n         \n          Título\n        \n         \n          Fecha - Menos reciente\n        \n         \n          Fecha - Más reciente\n        \n         \n          Autor/a\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nLecturas y ejercicios de repaso\n\n\n\n\n\n\nSimulación\n\n\nEjercicios\n\n\nLecturas\n\n\nEvaluaciones\n\n\n\n\n\n\n\n\n\n8 jun 2025\n\n\nAder Villar\n\n\n\n\n\n\n\n\n\n\n\n\nSimulación 2025-20\n\n\nUniversidad Pontificia Bolivariana\n\n\n\nSílabo\n\n\n\n\n\n\n\n\n\nAder Villar\n\n\n\n\n\n\nNo hay resultados\n\n Volver arriba"
-  },
-  {
-    "objectID": "cursos/modelos/01-lecturas.html",
-    "href": "cursos/modelos/01-lecturas.html",
-    "title": "Lecturas y ejercicios de repaso",
-    "section": "",
-    "text": "En esta sección podrán encontrar la lista de los ejercicios recomendados de la bibliografía para repasar los temas de las clases y prepararse para los exámenes."
-  },
-  {
-    "objectID": "cursos/modelos/01-lecturas.html#semanas-1-y-2",
-    "href": "cursos/modelos/01-lecturas.html#semanas-1-y-2",
-    "title": "Lecturas y ejercicios de repaso",
-    "section": "Semanas 1 y 2",
-    "text": "Semanas 1 y 2\nLibro: Probabilidad y Estadística para Ingeniería y Ciencias. Walpole & Myers & Myers. 9na edición\n\nEjercicios de la sección 2.2 (página 42): 2.4, 2.5, 2.7, 2.8, 2.11, 2.14, 2.15\nEjercicios de la sección 2.4 y 2.5 (página 59): 2.52, 2.53, 2.66, 2.69, 2.72\nEjercicios de la sección 2.6 (página 69): 2.73, 2.75, 2.77, 2.79, 2.83, 2.85, 2.88, 2.90, 2.92, 2.93"
-  },
-  {
-    "objectID": "cursos/simulacion/01-lecturas.html",
-    "href": "cursos/simulacion/01-lecturas.html",
-    "title": "Lecturas y ejercicios de repaso",
-    "section": "",
-    "text": "En esta sección podrán encontrar la lista de los ejercicios recomendados de la bibliografía para repasar los temas de las clases y prepararse para los exámenes."
-  },
-  {
-    "objectID": "cursos/simulacion/01-lecturas.html#semanas-1---4",
-    "href": "cursos/simulacion/01-lecturas.html#semanas-1---4",
-    "title": "Lecturas y ejercicios de repaso",
-    "section": "Semanas 1 - 4",
-    "text": "Semanas 1 - 4\nLibro: Simulation. Sheldon Ross. 6ta edición\n\nProblemas capítulo 3 (página 44): 3 - 7\n\nLibro: Simulación y análisis de sistemas con ProModel. Eduardo García. 2da edición\n\nProblemas 3.6 (página 96): 42 (a-g), 44 (a-d), 46 (a-f)\n\nLibro: Discrete-Event System Simulation. Jerry Banks. 5ta edición\n\nProblemas capítulo 8 (página 326): 1, 3, 5, 6, 9"
-  },
-  {
-    "objectID": "cursos/pl/01-lecturas.html#semanas-3-y-4",
-    "href": "cursos/pl/01-lecturas.html#semanas-3-y-4",
-    "title": "Lecturas y ejercicios de repaso",
-    "section": "Semanas 3 y 4",
-    "text": "Semanas 3 y 4\nLibro: Investigación de Operaciones. Hamdy Taha. 9na edición\n\nConjunto de problemas 2.4A (página 37): 2, 3, 7\nConjunto de problemas 2.4B (página 45): 1, 3, 6, 8\nConjunto de problemas 2.4C (página 51): 1, 4, 6"
-  },
-  {
-    "objectID": "cursos/modelos/01-lecturas.html#semanas-3-y-4",
-    "href": "cursos/modelos/01-lecturas.html#semanas-3-y-4",
-    "title": "Lecturas y ejercicios de repaso",
-    "section": "Semanas 3 y 4",
-    "text": "Semanas 3 y 4\nLibro: Probabilidad y Estadística para Ingeniería y Ciencias. Walpole & Myers & Myers. 9na edición\n\nEjercicios de la página 76: 2.95, 2.97, 2.99, 2.100, 2.101\nEjercicios de la página 91: 3.21, 3.25, 3.36\nEjercicios de la página 117: 4.2, 4.6, 4.13, 4.18\nEjercicios de la página 127: 4.34, 4.37, 4.43, 4.39, 4.41"
-  },
-  {
-    "objectID": "cursos/modelos/01-lecturas.html#semanas-5-7",
-    "href": "cursos/modelos/01-lecturas.html#semanas-5-7",
-    "title": "Lecturas y ejercicios de repaso",
-    "section": "Semanas 5 – 7",
-    "text": "Semanas 5 – 7\nLibro: Probabilidad y Estadística para Ingeniería y Ciencias. Walpole & Myers & Myers. 9na edición\n\nEjercicios de la página 104: 3.37, 3.38, 3.39, 3.49, 3.52, 3.54\nEjercicios de la página 137: 4.55, 4.57, 4.59, 4.62, 4.63\n\nLibro: Introduction to Stochastic Processes with R. Robert P. Dobrow\n\nEjercicios de la página 70: 2.1, 2.2, 2.4"
-  },
-  {
-    "objectID": "cursos/pl/01-lecturas.html#semanas",
-    "href": "cursos/pl/01-lecturas.html#semanas",
-    "title": "Lecturas y ejercicios de repaso",
-    "section": "Semanas",
-    "text": "Semanas"
-  },
-  {
-    "objectID": "cursos/pl/01-lecturas.html#semanas-5-7",
-    "href": "cursos/pl/01-lecturas.html#semanas-5-7",
-    "title": "Lecturas y ejercicios de repaso",
-    "section": "Semanas 5 – 7",
-    "text": "Semanas 5 – 7\nLibro: Investigación de Operaciones. Hamdy Taha. 9na edición\n\nConjunto de problemas 2.4D (página 54): 1, 2\nConjunto de problemas 2.4E (página 60): 1, 3, 4\nConjunto de problemas 2.4F (página 67): 3, 11\n\nLibro: Introducción a la Investigación de Operaciones. Frederick Hillier & Gerald Lieberman. 9na edicion\n\nProblemas capítulo 3 (página 70): 3.4-9, 3.4-10, 3.4-11, 3.4-14, 3.4-15"
-  },
-  {
-    "objectID": "cursos/simulacion/01-lecturas.html#semanas-5---7",
-    "href": "cursos/simulacion/01-lecturas.html#semanas-5---7",
-    "title": "Lecturas y ejercicios de repaso",
-    "section": "Semanas 5 - 7",
-    "text": "Semanas 5 - 7\nLibro: Simulación y análisis de sistemas con ProModel. Eduardo García. 2da edición\n\nProblemas 4.7 (página 138): 14, 16, 17, 18, 20, 21, 24, 26, 27, 32, 34, 35\n\nLibro: Discrete-Event System Simulation. Jerry Banks. 5ta edición\n\nProblemas capítulo 8 (página 326): 10, 14, 15"
-  },
-  {
-    "objectID": "cursos/modelos/01-lecturas.html#semanas-8-10",
-    "href": "cursos/modelos/01-lecturas.html#semanas-8-10",
-    "title": "Lecturas y ejercicios de repaso",
-    "section": "Semanas 8 – 10",
-    "text": "Semanas 8 – 10\nLibro: Introduction to Stochastic Processes with R. Robert P. Dobrow\n\nLecturas: 2.1, 2.2, 2.3, 2.4\n\nEjercicios de la página 70: 2.5 – 2.15"
   }
 ]

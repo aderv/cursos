@@ -1,0 +1,16 @@
+---
+title: "Diseño de Experimentos"
+listing:
+  contents: "*.qmd"      # Lista todos los archivos .qmd en esta carpeta
+  sort: "title asc"     # Los ordena por título
+  type: default         # Un estilo de lista limpio para empezar
+  categories: true      # Permite filtrar por categorías (tags)
+  sort-ui: true
+  filter-ui: true
+page-layout: full
+title-block-banner: true # El mismo banner de la página de inicio
+# --- METADATOS PARA LA CARD EN LA PÁGINA DE INICIO ---
+description: "Modelos estadísticos para el análisis de datos experimentales"
+image: "../../assets/logo-doe.png"
+categories: [Inferencia, Análisis de datos, Pregrado]
+---

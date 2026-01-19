@@ -11,15 +11,19 @@ website:
   bread-crumbs: true  
   navbar:
     search: true
+    pinned: true
     left:
       - href: index.qmd
         text: Inicio
+        icon: "house-door"
       - text: "cursos"
         menu:
-          - text: "Programación Lineal"
-            href: /cursos/pl/
           - text: "Modelos Estocásticos"
             href: /cursos/modelos/
+          - text: "Diseño de Experimentos"
+            href: /cursos/doe/
+          - text: "Programación Lineal"
+            href: /cursos/pl/          
           - text: "Simulación"
             href: /cursos/simulacion/
       # - href: about.qmd
@@ -28,11 +32,11 @@ website:
       #   text: Blog
   page-footer: 
     right: "Construído con [Quarto](https://quarto.org/){target='_blank'}"
-    left: "&copy; 2025, Ader Villar"
+    left: "&copy; 2026, Ader Villar"
 
 format:
   html:
-    theme: minty
+    theme: cerulean
     css: "assets/styles.css"
     toc: true
     lang: es

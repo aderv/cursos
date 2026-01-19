@@ -2,16 +2,10 @@
   {
     "listing": "/index.html",
     "items": [
+      "/cursos/doe/index.html",
       "/cursos/modelos/index.html",
       "/cursos/pl/index.html",
       "/cursos/simulacion/index.html"
-    ]
-  },
-  {
-    "listing": "/cursos/modelos/index.html",
-    "items": [
-      "/cursos/modelos/01-lecturas.html",
-      "/cursos/modelos/00-silabo.html"
     ]
   },
   {
@@ -19,6 +13,20 @@
     "items": [
       "/cursos/pl/01-lecturas.html",
       "/cursos/pl/00-silabo.html"
+    ]
+  },
+  {
+    "listing": "/cursos/doe/index.html",
+    "items": [
+      "/cursos/doe/00-silabo-doe-2026-10.html"
+    ]
+  },
+  {
+    "listing": "/cursos/modelos/index.html",
+    "items": [
+      "/cursos/modelos/01-lecturas.html",
+      "/cursos/modelos/00-silabo.html",
+      "/cursos/modelos/02-silabo-modelos-2026-10.html"
     ]
   },
   {

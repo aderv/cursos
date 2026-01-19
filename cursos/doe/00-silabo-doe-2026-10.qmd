@@ -1,0 +1,33 @@
+---
+title: "Diseño de Experimentos 2026-10"
+subtitle: "Universidad Pontificia Bolivariana"
+author: "Ader Villar"
+author-title: Profesor
+categories: [Sílabo]
+date: "2026-01-19"
+nocite: "@*"
+reference-location: margin
+---
+
+# Presentación del curso
+
+Curso de Diseño de Experimentos
+
+## Plan de trabajo por semana
+
+## Evaluación
+
+## Sobre el [Reglamento](https://gconocimiento.upb.edu.co/gesdoc/Informacin%20Institucional/Reglamento%20Estudiantes%20Pregrado.pdf){target="_blank"}
+
++ <abbr title="Artículo 41">Es necesario que el estudiante participe como mínimo en el 80% del desarrollo del curso (clases). La inasistencia será causal de pérdida del curso con una calificación de cero punto cero cero (0.00), sin posibilidad de cancelación del curso, si la inasistencia fue reportada previamente al sistema de información.</abbr>
++ <abbr title="Artículo 41">La inasistencia por razones de enfermedad o fuerza mayor deberá justificarse
+dentro de los tres (3) días hábiles siguientes al hecho. Cuando el estudiante
+requiera ausentarse para eventos académicos, científicos, culturales y
+deportivos, en representación de la Universidad, deberá reportar este hecho al
+profesor, como mínimo con ocho (8) días hábiles de anticipación.</abbr>
++ <abbr title="Artículo 34, literal a">En cualquiera de las clases se pueden hacer actividades evaluativas de seguimiento (quices, talleres cortos, ejercicios en clase), con o sin programación previa</abbr>.
++ <abbr title="Artículo 35, literal e">La no presentación de una evaluación en la fecha y hora fijada por el profesor conlleva una nota de 0.00 (cero punto cero cero).</abbr>
++ <abbr title="Artículo 35, parágrafo">Cuando, por causas justificadas, no se puedan presentar las evaluaciones parciales o finales en las fechas establecidas por el docente, se podrá solicitar pruebas supletorias ante el director de la Facultad. Estas pruebas tendrán un costo y deberán ser solicitadas dentro de los tres (3) días hábiles siguientes a la programación de la prueba no presentada por el estudiante y, si es autorizada, deberá ser presentada dentro de los 10 días hábiles siguientes a su autorización.</abbr> 
++ <abbr title="Artículo 34, parágrafo 2">Los resultados de las evaluaciones deberán ser informados al estudiante, a más
+tardar, dentro de las dos (2) semanas siguientes a su presentación.</abbr>
+
