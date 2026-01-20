@@ -21,7 +21,27 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
@@ -35,10 +55,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-e26003cea8cd680ca0c55a263523d882.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-dark-d166b450ba5a8e9f7a0ab969bf6592c1.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../site_libs/bootstrap/bootstrap-2f6844b3748638c5738d4cf93630e566.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/bootstrap/bootstrap-cd0f484f45dcccbbe7a7570cd996306a.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -66,6 +86,10 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Buscar"
   }
 }</script>
+<script src="../../site_libs/kePrint-0.0.1/kePrint.js"></script>
+
+<link href="../../site_libs/lightable-0.0.1/lightable.css" rel="stylesheet">
+
 
 
 <link rel="stylesheet" href="../../assets/styles.css">
@@ -132,12 +156,10 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">En esta página</h2>
    
   <ul>
-  <li><a href="#presentación-del-curso" id="toc-presentación-del-curso" class="nav-link active" data-scroll-target="#presentación-del-curso">Presentación del curso</a>
-  <ul class="collapse">
+  <li><a href="#descripción" id="toc-descripción" class="nav-link active" data-scroll-target="#descripción">Descripción</a></li>
   <li><a href="#plan-de-trabajo-por-semana" id="toc-plan-de-trabajo-por-semana" class="nav-link" data-scroll-target="#plan-de-trabajo-por-semana">Plan de trabajo por semana</a></li>
   <li><a href="#evaluación" id="toc-evaluación" class="nav-link" data-scroll-target="#evaluación">Evaluación</a></li>
   <li><a href="#sobre-el-reglamento" id="toc-sobre-el-reglamento" class="nav-link" data-scroll-target="#sobre-el-reglamento">Sobre el Reglamento</a></li>
-  </ul></li>
   </ul>
 </nav>
     </div>
@@ -179,14 +201,165 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="presentación-del-curso" class="level1">
-<h1>Presentación del curso</h1>
-<p>Curso de Diseño de Experimentos</p>
+<section id="descripción" class="level2">
+<h2 class="anchored" data-anchor-id="descripción">Descripción</h2>
+<p>Este curso aborda el Diseño de Experimentos (DoE: <em>Design of Experiments</em>) como una metodología estratégica para la mejora de sistemas. A través de un enfoque riguroso, el estudiante desarrollará competencias para planear, ejecutar y analizar experimentos estadísticos, abarcando desde los fundamentos de la inferencia (intervalos de confianza y pruebas de hipótesis) hasta estructuras más complejas como el ANOVA de un factor, diseños en bloques, cuadrados latinos/grecolatinos y diseños factoriales.</p>
+<p>Se hace especial énfasis en la validez de los resultados mediante el análisis de residuales y la verificación de supuestos del modelo. Para cerrar la brecha entre la teoría y la práctica, el curso integra el uso de herramientas computacionales (Excel, R, Python), permitiendo el procesamiento eficiente de datos experimentales para la toma de decisiones basada en evidencia.</p>
+</section>
 <section id="plan-de-trabajo-por-semana" class="level2">
 <h2 class="anchored" data-anchor-id="plan-de-trabajo-por-semana">Plan de trabajo por semana</h2>
+<div class="cell">
+<div class="cell-output-display">
+<table class="table table-striped table-condensed table-hover caption-top table-sm small" data-quarto-postprocess="true">
+<thead>
+<tr class="header">
+<th data-quarto-table-cell-role="th" style="text-align: right; position: sticky; top: 0; background-color: #FFFFFF;">Semana</th>
+<th data-quarto-table-cell-role="th" style="text-align: left; position: sticky; top: 0; background-color: #FFFFFF;">Fecha</th>
+<th data-quarto-table-cell-role="th" style="text-align: left; position: sticky; top: 0; background-color: #FFFFFF;">Temas</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: right;">1</td>
+<td style="text-align: left;">enero 19</td>
+<td style="text-align: left; width: 35em;">Distribuciones muestrales I</td>
+</tr>
+<tr class="even">
+<td style="text-align: right;">2</td>
+<td style="text-align: left;">enero 26</td>
+<td style="text-align: left; width: 35em;">Distribuciones muestrales II</td>
+</tr>
+<tr class="odd">
+<td style="text-align: right;">3</td>
+<td style="text-align: left;">febrero 02</td>
+<td style="text-align: left; width: 35em;">Estimación y pruebas de hipótesis I. <strong>Seguimiento 1</strong></td>
+</tr>
+<tr class="even">
+<td style="text-align: right;">4</td>
+<td style="text-align: left;">febrero 09</td>
+<td style="text-align: left; width: 35em;">Estimación y pruebas de hipótesis II</td>
+</tr>
+<tr class="odd">
+<td style="text-align: right;">5</td>
+<td style="text-align: left;">febrero 16</td>
+<td style="text-align: left; width: 35em;">Experimentos de un factor. <strong>Seguimiento 2</strong></td>
+</tr>
+<tr class="even">
+<td style="text-align: right;">6</td>
+<td style="text-align: left;">febrero 23</td>
+<td style="text-align: left; width: 35em;">Pruebas de significancia y modelo de regresión</td>
+</tr>
+<tr class="odd">
+<td style="text-align: right;">7</td>
+<td style="text-align: left;">marzo 02</td>
+<td style="text-align: left; width: 35em;">Comparación de la media de los tratamientos</td>
+</tr>
+<tr class="even">
+<td style="text-align: right;">8</td>
+<td style="text-align: left;">marzo 09</td>
+<td style="text-align: left; width: 35em;">Análisis de residuales y verificación de los supuestos del modelo I. <strong>Examen 1</strong></td>
+</tr>
+<tr class="odd">
+<td style="text-align: right;">9</td>
+<td style="text-align: left;">marzo 16</td>
+<td style="text-align: left; width: 35em;">Análisis de residuales y verificación de los supuestos del modelo II</td>
+</tr>
+<tr class="even">
+<td style="text-align: right;">10</td>
+<td style="text-align: left;">marzo 23</td>
+<td style="text-align: left; width: 35em;">Experimentos factoriales I. <strong>Seguimiento 3</strong></td>
+</tr>
+<tr class="odd">
+<td style="text-align: right;">11</td>
+<td style="text-align: left;">marzo 30</td>
+<td style="text-align: left; width: 35em;"><strong>Semana Santa</strong></td>
+</tr>
+<tr class="even">
+<td style="text-align: right;">12</td>
+<td style="text-align: left;">abril 06</td>
+<td style="text-align: left; width: 35em;">Experimentos factoriales II</td>
+</tr>
+<tr class="odd">
+<td style="text-align: right;">13</td>
+<td style="text-align: left;">abril 13</td>
+<td style="text-align: left; width: 35em;">Técnica de bloques. <strong>Examen 2</strong></td>
+</tr>
+<tr class="even">
+<td style="text-align: right;">14</td>
+<td style="text-align: left;">abril 20</td>
+<td style="text-align: left; width: 35em;">Cuadrado latino y grecolatino I</td>
+</tr>
+<tr class="odd">
+<td style="text-align: right;">15</td>
+<td style="text-align: left;">abril 27</td>
+<td style="text-align: left; width: 35em;">Cuadrado latino y grecolatino II. <strong>Seguimiento 4</strong></td>
+</tr>
+<tr class="even">
+<td style="text-align: right;">16</td>
+<td style="text-align: left;">mayo 04</td>
+<td style="text-align: left; width: 35em;">Temas adicionales I</td>
+</tr>
+<tr class="odd">
+<td style="text-align: right;">17</td>
+<td style="text-align: left;">mayo 11</td>
+<td style="text-align: left; width: 35em;">Temas adicionales II</td>
+</tr>
+</tbody>
+</table>
+
+
+</div>
+</div>
 </section>
 <section id="evaluación" class="level2">
 <h2 class="anchored" data-anchor-id="evaluación">Evaluación</h2>
+<p>La nota final se calculará como el promedio ponderado de las notas de seguimiento y los exámenes</p>
+<div id="eval">
+<div class="cell">
+<div class="cell-output-display">
+<table class="table table-hover table-bordered table-condensed caption-top table-sm table-striped small" data-quarto-postprocess="true">
+<thead>
+<tr class="header">
+<th style="text-align: left;" data-quarto-table-cell-role="th">Nota</th>
+<th style="text-align: left;" data-quarto-table-cell-role="th">Peso</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left; vertical-align: middle;">Seguimiento 1</td>
+<td style="text-align: left;"><strong>(10%)</strong></td>
+</tr>
+<tr class="even">
+<td style="text-align: left; vertical-align: middle;">Seguimiento 2</td>
+<td style="text-align: left;"><strong>(10%)</strong></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left; vertical-align: middle;">Examen 1</td>
+<td style="text-align: left;"><strong>(20%)</strong></td>
+</tr>
+<tr class="even">
+<td style="text-align: left; vertical-align: middle;">Seguimiento 3</td>
+<td style="text-align: left;"><strong>(10%)</strong></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left; vertical-align: middle;">Examen 2</td>
+<td style="text-align: left;"><strong>(20%)</strong></td>
+</tr>
+<tr class="even">
+<td style="text-align: left; vertical-align: middle;">Seguimiento 4</td>
+<td style="text-align: left;"><strong>(15%)</strong></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left; vertical-align: middle;">Examen o proyecto final</td>
+<td style="text-align: left;"><strong>(15%)</strong></td>
+</tr>
+</tbody>
+</table>
+
+
+</div>
+</div>
+</div>
 </section>
 <section id="sobre-el-reglamento" class="level2">
 <h2 class="anchored" data-anchor-id="sobre-el-reglamento">Sobre el <a href="https://gconocimiento.upb.edu.co/gesdoc/Informacin%20Institucional/Reglamento%20Estudiantes%20Pregrado.pdf" target="_blank">Reglamento</a></h2>
@@ -200,10 +373,26 @@ ul.task-list li input[type="checkbox"] {
 </ul>
 
 
-</section>
+
 </section>
 
-<a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Volver arriba</a></main> <!-- /main -->
+<a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Volver arriba</a><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">Referencias</h2><div id="refs" class="references csl-bib-body" data-entry-spacing="0" role="list">
+<div id="ref-montgomery2020" class="csl-entry" role="listitem">
+<div class="csl-left-margin">[1] </div><div class="csl-right-inline">D. C. Montgomery, <em>Design and Analysis of Experiments</em>, 10.ª ed. John wiley &amp; sons, 2020.</div>
+</div>
+<div id="ref-dean1999design" class="csl-entry" role="listitem">
+<div class="csl-left-margin">[2] </div><div class="csl-right-inline">A. Dean, D. Voss, y D. Draguljic, <em>Design and Analysis of Experiments</em>, 2.ª ed. Springer, 2017.</div>
+</div>
+<div id="ref-lawson2014design" class="csl-entry" role="listitem">
+<div class="csl-left-margin">[3] </div><div class="csl-right-inline">J. Lawson, <em>Design and Analysis of Experiments with R</em>. CRC press, 2014.</div>
+</div>
+<div id="ref-walpole2012" class="csl-entry" role="listitem">
+<div class="csl-left-margin">[4] </div><div class="csl-right-inline">R. Walpole, R. Myers, y S. Myers, <em>Probabilidad y estadística para ingeniería y ciencias</em>, 9.ª ed. Pearson educación, 2012.</div>
+</div>
+<div id="ref-wackerly2002estadistica" class="csl-entry" role="listitem">
+<div class="csl-left-margin">[5] </div><div class="csl-right-inline">D. Wackerly Dennis, W. Mendenhall, y R. Scheaffer, <em>Estadística Matemática con Aplicaciones</em>, 7.ª ed. Cengage, 2010.</div>
+</div>
+</div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

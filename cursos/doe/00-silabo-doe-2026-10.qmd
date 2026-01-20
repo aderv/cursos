@@ -9,13 +9,84 @@ nocite: "@*"
 reference-location: margin
 ---
 
-# Presentación del curso
+## Descripción
 
-Curso de Diseño de Experimentos
+Este curso aborda el Diseño de Experimentos (DoE: _Design of Experiments_) como una metodología estratégica para la mejora de sistemas. A través de un enfoque riguroso, el estudiante desarrollará competencias para planear, ejecutar y analizar experimentos estadísticos, abarcando desde los fundamentos de la inferencia (intervalos de confianza y pruebas de hipótesis) hasta estructuras más complejas como el ANOVA de un factor, diseños en bloques, cuadrados latinos/grecolatinos y diseños factoriales.
+
+Se hace especial énfasis en la validez de los resultados mediante el análisis de residuales y la verificación de supuestos del modelo. Para cerrar la brecha entre la teoría y la práctica, el curso integra el uso de herramientas computacionales (Excel, R, Python), permitiendo el procesamiento eficiente de datos experimentales para la toma de decisiones basada en evidencia.
+
+
 
 ## Plan de trabajo por semana
 
+```{r, echo=F}
+#| echo: false
+#| message: false
+#| warning: false
+
+library(kableExtra)
+session <- 1:17
+start_date <- as.Date("19/01/2026", format = "%d/%m/%Y")
+dates <- seq.Date(from = start_date, length.out = length(session), by = "week")
+dates <- format(dates, "%B %d")
+subject <- c(
+  "Distribuciones muestrales I",
+  "Distribuciones muestrales II",
+  "Estimación y pruebas de hipótesis I. <b>Seguimiento 1</b>",
+  "Estimación y pruebas de hipótesis II",
+  "Experimentos de un factor. <b>Seguimiento 2</b>",
+  "Pruebas de significancia y modelo de regresión",
+  "Comparación de la media de los tratamientos",
+  "Análisis de residuales y verificación de los supuestos del modelo I. <b>Examen 1</b>",
+  "Análisis de residuales y verificación de los supuestos del modelo  II",
+  "Experimentos factoriales I. <b>Seguimiento 3</b>",
+  "<b>Semana Santa</b>",
+  "Experimentos factoriales II",
+  "Técnica de bloques. <b>Examen 2</b>",
+  "Cuadrado latino y grecolatino I",
+  "Cuadrado latino y grecolatino II. <b>Seguimiento 4</b>",
+  "Temas adicionales I",
+  "Temas adicionales II"
+)
+
+content <- data.frame(session, dates, subject)
+colnames(content) <- c("Semana", "Fecha", "Temas")
+# bck_row1 <- seq(from = 1, to = nrow(content), by=2)
+kableExtra::kbl(x = content, booktabs = T, escape = F) %>%
+  kable_styling(full_width = F, font_size = 16, html_font = "Segoe UI", 
+                bootstrap_options = c("striped", "condensed", "hover"),
+                fixed_thead = T) %>% 
+  column_spec(3, width="35em") #%>% 
+  #row_spec(bck_row1, background = backgrond_color2)
+
+```
+
 ## Evaluación
+
+La nota final se calculará como el promedio ponderado de las notas de seguimiento y los exámenes
+
+:::{#eval}
+```{r}
+#| echo: false
+#| message: false
+#| warning: false
+library(tidyverse)
+library(kableExtra)
+cortes <- c('Seguimiento 1', 'Seguimiento 2',
+            'Examen 1', 'Seguimiento 3',
+            'Examen 2', 'Seguimiento 4',
+            'Examen o proyecto final')
+notas <- c('<b>(10%)</b>', '<b>(10%)</b>', '<b>(20%)</b>',
+            '<b>(10%)</b>', '<b>(20%)</b>', '<b>(15%)</b>',
+            '<b>(15%)</b>')
+dt <- tibble::tibble(Nota = cortes, Peso = notas)
+dt %>% kbl(escape = FALSE) %>% kable_styling(
+  bootstrap_options = c("hover", "estriped", "bordered", "condensed"),
+  full_width = T) %>% 
+  column_spec(1, border_right = F, extra_css = 'vertical-align:middle;')
+```
+:::
+
 
 ## Sobre el [Reglamento](https://gconocimiento.upb.edu.co/gesdoc/Informacin%20Institucional/Reglamento%20Estudiantes%20Pregrado.pdf){target="_blank"}
 

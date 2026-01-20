@@ -36,7 +36,7 @@ website:
 
 format:
   html:
-    theme: cerulean
+    theme: superhero
     css: "assets/styles.css"
     toc: true
     lang: es
